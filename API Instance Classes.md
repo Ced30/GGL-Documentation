@@ -29,7 +29,7 @@
 - [parent_GGL_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_textbox.md)
 
 **Parent pop-up container classes:**
-- parent_GGL_popup_container
+- [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_popup_container.md)
 - parent_GGL_popup_message
 - parent_GGL_window
 
