@@ -15,7 +15,7 @@
 - [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable_animated.md)
 - [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_grabbable.md)
 - [parent_GGL_grabbable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/tree/main)
-- parent_GGL_maintainable
+- [parent_GGL_maintainable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_maintainable.md)
 - parent_GGL_progression_bar
 - parent_GGL_slider
 - parent_GGL_text_input_box
