@@ -24,7 +24,7 @@ Only the **main functions**, which would be **public** in an object oriented lan
 
 ## API
 
-[**Instance Classes**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20Instance%20Classes.md)
+[**Instance Classes**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
 
 [**Instance Prefabs**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20Instance%20Prefabs.md)
 
