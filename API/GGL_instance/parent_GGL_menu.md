@@ -13,16 +13,16 @@ as we don't draw it directly.
 | Returns:  | the group that's been created |
 |--         |                             --|
 
-| Parameters: |  type  | description |
-|--           |      --|--           |
-|    label    | string | the name of the group that will be created  |
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|    label    | string  | the name of the group that will be created |
 
 Use this method to add new groups to the menu.
 
-| Name:     | **Activate()** |
-|--         |              --|
-| Returns:  |      N/A       |
-|Parameters:|      N/A       |
+**Activate()**
+
+| Returns:  | N/A |
+|--         |   --|
 
 Store a room id in the "value" variable and call this method to change the menu's active group
 
