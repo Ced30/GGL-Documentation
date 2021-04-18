@@ -30,6 +30,17 @@ Draws text at a given location, and a given color.
 
 Use this method to modify or limit the alpha value af the whole instance draw event
 
+## - Set_label(new_label)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   new_label      | string  |  the new label to display    |
+
+| Returns:  | N/A |
+|--         |                             --|
+
+This method let's you set the text to display.
+
 # Variable Definitions
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_label.png)
