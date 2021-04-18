@@ -52,7 +52,7 @@ Use this method, combined with the "Activate" method to change the active group.
 
 This method is called each frame, override it to run your own logic.
 
-# Variable Definitions tab
+# Variable Definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_menu.png)
 
