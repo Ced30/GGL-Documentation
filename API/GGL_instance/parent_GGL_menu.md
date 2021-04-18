@@ -8,8 +8,8 @@ as we don't draw it directly.
 ## Relevant Methods
 
 
-| Name:     | **Add_element()**                |
-|--         |                                --|
+**Add_element()
+
 | Returns:  | the group that's been created    |
 |Parameters:| the label of the group to create |
 
