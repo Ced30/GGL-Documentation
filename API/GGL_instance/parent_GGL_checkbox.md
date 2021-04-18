@@ -1,8 +1,8 @@
-## Class parent_GGL_checkbox
+# Class parent_GGL_checkbox
 
 Simple checkbox with label and a clickable panel to toggle / untoggle
 
-## Relevant Methods
+# Relevant Methods
 
 N/A
 
