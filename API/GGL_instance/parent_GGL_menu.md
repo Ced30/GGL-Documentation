@@ -42,4 +42,14 @@ Store a room id in the "value" variable and call this method to change the menu'
 
 Use this method, combined with the "Activate" method to change the active group.
 
+## Update_logic()
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|    N/A      |   N/A   |                    N/A                     |
+
+| Returns:  | N/A |
+|--         |   --|
+
+Override this method to run your own logic.
+
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
