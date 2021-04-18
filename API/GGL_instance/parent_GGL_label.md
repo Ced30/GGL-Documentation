@@ -32,6 +32,6 @@ Use this method to modify or limit the alpha value af the whole instance draw ev
 
 # Variable Definitions
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_menu.png)
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_label.png)
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
