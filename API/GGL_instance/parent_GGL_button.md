@@ -20,6 +20,15 @@ replace the "Activate" method.
 
 Override this method with the "activate_override" variable in the variable definitions tab to run your own functions when the button is clicked.
 
+# Get_value()
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  N/A  |   N/A   |  N/A    |
+
+| Returns:  |  the "value" variable, which can store any type of value |
+|--         |                                                        --|
+
 # Set_value(new_value)
 
 | Parameter   |  type   |              description                   |
