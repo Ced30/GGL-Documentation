@@ -58,3 +58,6 @@ Only the **main functions**, which would be **public** in an object oriented lan
 - parent_GGL_window
 
 **Pop-up prefabs classes:**
+- obj_GGL_popup_CONFIRM_CANCEL
+- obj_GGL_window_with_confirmation
+- obj_GGL_windows_value_return
