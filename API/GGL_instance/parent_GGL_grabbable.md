@@ -1,6 +1,6 @@
 ## Class parent_GGL_grabbable
 
-same as the default button, except, you can grab it with a left click, move it across the room and left click again to drop.
+same as the default button, except, you can grab it with a left click, move it across the room and left click again to drop it.
   
 ## Relevant Methods
 
