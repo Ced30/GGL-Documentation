@@ -63,6 +63,6 @@ Use this function to make the drawn value shake.
 
 **is_shake**        => does the text shake when "value" is low?
 
-**shake_threshold** => the threshold before the text starts to shake (ex: 0.3 for 30% of the bar)
+**shake_threshold** => how low does the value have to be before the text starts to shake (ex: 0.3 for 30% of the bar)
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
