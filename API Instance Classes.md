@@ -23,7 +23,7 @@
 - [parent_GGL_toggle_linked](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_toggle_linked.md)
 
 **Parent container classes:**
-- parent_GGL_container
+- [parent_GGL_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_container.md)
 - parent_GGL_dropdown
 - parent_GGL_list
 - parent_GGL_textbox
