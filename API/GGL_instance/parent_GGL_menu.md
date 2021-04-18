@@ -7,11 +7,10 @@ as we don't draw it directly.
 
 ## Relevant Methods
 
-**Activate()**
-
-Returns: N/A
-
-Parameters: none
+| Name:     | **Activate()** |
+|--         |              --|
+| Returns:  |      N/A       |
+|Parameters:|      N/A       |
 
 Store a room id in the "value" variable and call this method to change the menu's active group
 
