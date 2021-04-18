@@ -18,13 +18,13 @@ Struct classes cannot work by themselves, they must have an owner, typically a c
 - [GGL_sub_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_progression_bar.md)
 - [GGL_sub_slider](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_slider.md)
 - [GGL_sub_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_text_input_box.md)
-- GGL_sub_toggle
-- GGL_sub_toggle_linked
+- [GGL_sub_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_toggle.md)
+- [GGL_sub_toggle_linked](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_toggle_linked)
 
 **Parent GGL_sub container classes:**
-- GGL_sub_container
-- GGL_sub_dropdown
-- GUI_sub_list
-- parent_GGL_textbox
+- [GGL_sub_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_container)
+- [GGL_sub_dropdown](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_dropdown.md)
+- [GUI_sub_list](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GUI_sub_list.md)
+- [parent_GGL_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/parent_GGL_textbox.md)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
