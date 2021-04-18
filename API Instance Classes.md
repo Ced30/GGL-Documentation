@@ -12,7 +12,7 @@
 - [parent_GGL_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_button.md)
 - [parent_GGL_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_checkbox.md)
 - [parent_GGL_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable.md)
-- parent_GGL_draggable_animated
+- [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable_animated.md)
 - parent_GGL_grabbable
 - parent_GGL_grabbable_animated
 - parent_GGL_maintainable
