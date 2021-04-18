@@ -37,7 +37,7 @@ Stores any kind of value inside the "value" variable (this in conjonction with t
 
 **sound_active**      => the sound played when you interact with the button
 
-**sound_hover**       => the sound played when the mouse is over the button
+**sound_hover**       => the sound played when the mouse is above the button
 
 **sound_inactive**    => the sound played when you drop a draggable or grabbable object
 
