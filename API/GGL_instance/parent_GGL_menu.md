@@ -52,4 +52,8 @@ Use this method, combined with the "Activate" method to change the active group.
 
 This method is called each frame, override it to run your own logic.
 
+# Variable Definitions tab
+
+
+
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
