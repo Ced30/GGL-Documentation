@@ -33,7 +33,7 @@ Only the **main functions**, which would be **public** in an object oriented lan
 - [parent_GGL_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_panel.md)
 
 **Parent button classes:**
-- parent_GGL_button
+- [parent_GGL_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_button.md)
 - parent_GGL_checkbox
 - parent_GGL_draggable
 - parent_GGL_draggable_animated
