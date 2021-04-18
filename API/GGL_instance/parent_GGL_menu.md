@@ -50,6 +50,6 @@ Use this method, combined with the "Activate" method to change the active group.
 | Returns:  | N/A |
 |--         |   --|
 
-Override this method to run your own logic.
+This method is called each frame, override it to run your own logic.
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
