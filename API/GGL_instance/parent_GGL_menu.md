@@ -10,11 +10,12 @@ as we don't draw it directly.
 
 **Add_element(label)**
 
-| Returns:  | the group that's been created    |
+| Returns:  | the group that's been created |
+|--         |                             --|
 
-| Parameters: | type | description |
-|--           |    --|--           |
-|             |      |             |
+| Parameters: |  type  | description |
+|--           |      --|--           |
+|    label    | string | the name of the group that will be created  |
 
 Use this method to add new groups to the menu.
 
