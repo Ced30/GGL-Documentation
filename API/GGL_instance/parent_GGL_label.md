@@ -17,5 +17,17 @@ This class displays a label at it's position and is not interactable with by the
 | Returns:  | N/A |
 |--         |                             --|
 
+Draws text at a given location, and a given color.
+
+## Set_alpha_modifier(value)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   value      | real  |           a real number between 0 and 1     |
+
+| Returns:  | N/A |
+|--         |                             --|
+
+Use this method to modify or limit the alpha value af the whole instance draw event
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
