@@ -1,4 +1,4 @@
-## Instance Classes
+# Instance Classes
 
 Instances classes are GUI elements that you can drag into your scene and tweak the variables from the variable definitions tab.
 
@@ -37,4 +37,4 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_message.md)
 - [parent_GGL_window](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_window.md)
 
-## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
