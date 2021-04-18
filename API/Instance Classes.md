@@ -20,7 +20,7 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable.md)
 - [parent_GGL_grabbable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable_animated.md)
 - [parent_GGL_maintainable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_maintainable.md)
-- [parent_GGL_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_progression_bar.md)
+- [parent_GGL_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_progression_bar.md)
 - [parent_GGL_slider](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_slider.md)
 - [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_text_input_box.md)
 - [parent_GGL_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_toggle.md)
@@ -33,8 +33,8 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_textbox.md)
 
 **Parent pop-up container classes:**
-- [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_popup_container.md)
-- [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_popup_message.md)
+- [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_container.md)
+- [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_message.md)
 - [parent_GGL_window](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_window.md)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
