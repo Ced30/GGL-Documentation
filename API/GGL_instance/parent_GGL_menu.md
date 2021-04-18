@@ -23,7 +23,10 @@ Use this method to add new groups to the menu.
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|    N/A    | N/A  | N/A |
+|    N/A      |   N/A   |                    N/A                     |
+
+| Returns:  | N/A |
+|--         |   --|
 
 Store a room id in the "value" variable and call this method to change the menu's active group
 
