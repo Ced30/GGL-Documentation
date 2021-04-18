@@ -28,7 +28,7 @@ Returns the current value of the slider (the "value" variable)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|  new_value  |   any   |  this variable can store any type of value    |
+|  new_value  |   real   |  the new value of the "value" variable    |
 
 | Returns:  |         N/A |
 |--         |                             --|
