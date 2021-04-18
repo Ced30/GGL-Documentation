@@ -1,5 +1,8 @@
 ## Instance Classes
 
+Instances classes are GUI elements that you can drag into your scene and tweak the variables from the variable definitions tab.
+They are independant and can be fetched with the "GGL_find_parent" function (a GGL_ID must be set first).
+
 **Base classes:**
 - [parent_GGL](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL)
 - [parent_GGL_menu](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_menu.md)
