@@ -22,6 +22,11 @@ Only the **main functions**, which would be **public** in an object oriented lan
 5.  An "Import Resources" window will open up. ...
 6.  Click "Import" (leave the checkbox unchecked)
 
+## Important
+
+Before anything else, an instance of **obj_GGL_controller** must be place in the room, it must be placed
+before any GGL object in the instance creation order.
+
 ## API
 
 [**Instance Classes**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
