@@ -7,7 +7,7 @@ It does nothing by itself, it's just a building block.
 
 none, it holds mainly empty methods that are meant to be overriden.
 
-## Variable Definitions:
+# Variable Definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL.png)
 
