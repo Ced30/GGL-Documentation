@@ -4,7 +4,7 @@ This class displays a label at it's position and is not interactable with by the
 
 # Relevant Methods
 
-## Draw_text_at(text, x, y, color1, color2)
+## - Draw_text_at(text, x, y, color1, color2)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
@@ -19,7 +19,7 @@ This class displays a label at it's position and is not interactable with by the
 
 Draws text at a given location, and a given color.
 
-## Set_alpha_modifier(value)
+## - Set_alpha_modifier(value)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
