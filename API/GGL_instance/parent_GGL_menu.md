@@ -7,6 +7,14 @@ as we don't draw it directly.
 
 ## Relevant Methods
 
+
+| Name:     | **Add_element()**                |
+|--         |                                --|
+| Returns:  | the group that's been created    |
+|Parameters:| the label of the group to create |
+
+Use this method to add new groups to the menu.
+
 | Name:     | **Activate()** |
 |--         |              --|
 | Returns:  |      N/A       |
