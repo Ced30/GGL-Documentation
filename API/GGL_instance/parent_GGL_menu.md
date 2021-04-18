@@ -12,12 +12,13 @@ as we don't draw it directly.
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|    label    | string  | the name of the group that will be created |
+|    label    | string  | the label of the group that will be created |
 
 | Returns:  | the group that's been created |
 |--         |                             --|
 
 Use this method to add new groups to the menu.
+
 
 **Activate()**
 
@@ -29,5 +30,7 @@ Use this method to add new groups to the menu.
 |--         |   --|
 
 Store a room id in the "value" variable and call this method to change the menu's active group
+
+
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
