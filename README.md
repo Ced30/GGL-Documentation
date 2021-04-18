@@ -29,8 +29,8 @@ Only the **main functions**, which would be **public** in an object oriented lan
 - [parent_GGL_menu](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_menu.md)
 
 **Parent classes:**
-- parent_GGL_label
-- parent_GGL_panel
+- [parent_GGL_label](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_label.md)
+- [parent_GGL_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_panel.md)
 
 **Parent button classes:**
 - parent_GGL_button
