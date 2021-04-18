@@ -1,4 +1,4 @@
-# Class
+# Class parent_GGL_label
 
 This class displays a label at it's position and is not interactable with by the user.
 
