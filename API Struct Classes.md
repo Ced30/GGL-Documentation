@@ -15,9 +15,9 @@ Struct classes cannot work by themselves, they must have an owner, typically a c
 - [GUI_sub_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GUI_sub_checkbox.md)
 - [GGL_sub_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_draggable.md)
 - [GGL_sub_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_grabbable.md)
-- GGL_sub_progression_bar
-- GGL_sub_slider
-- GGL_sub_text_input_box
+- [GGL_sub_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_progression_bar.md)
+- [GGL_sub_slider](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_slider.md)
+- [GGL_sub_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub_text_input_box.md)
 - GGL_sub_toggle
 - GGL_sub_toggle_linked
 
