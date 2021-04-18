@@ -12,9 +12,9 @@ as we don't draw it directly.
 
 | Returns:  | the group that's been created    |
 
-
-|Parameters:| type        |        description |
-|--         |             |                  --|
+| Parameters: | type | description |
+|--           |    --|--           |
+|             |      |             |
 
 Use this method to add new groups to the menu.
 
