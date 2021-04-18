@@ -19,7 +19,7 @@
 - [parent_GGL_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_progression_bar.md)
 - [parent_GGL_slider](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_slider.md)
 - [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_text_input_box.md)
-- parent_GGL_toggle
+- [parent_GGL_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_toggle.md)
 - parent_GGL_toggle_linked
 
 **Parent container classes:**
