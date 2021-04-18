@@ -8,11 +8,13 @@ as we don't draw it directly.
 ## Relevant Methods
 
 
-**Add_element()**
+**Add_element(label)**
 
 | Returns:  | the group that's been created    |
-|--         |                                --|
 
+
+|Parameters:| type        |        description |
+|--         |             |                  --|
 
 Use this method to add new groups to the menu.
 
