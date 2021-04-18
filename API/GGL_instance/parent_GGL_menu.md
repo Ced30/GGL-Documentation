@@ -10,19 +10,20 @@ as we don't draw it directly.
 
 **Add_element(label)**
 
-| Returns:  | the group that's been created |
-|--         |                             --|
-
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |    label    | string  | the name of the group that will be created |
+
+| Returns:  | the group that's been created |
+|--         |                             --|
 
 Use this method to add new groups to the menu.
 
 **Activate()**
 
-| Returns:  | N/A |
-|--         |   --|
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|    N/A    | N/A  | N/A |
 
 Store a room id in the "value" variable and call this method to change the menu's active group
 
