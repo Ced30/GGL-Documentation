@@ -8,7 +8,7 @@ as we don't draw it directly.
 ## Relevant Methods
 
 
-**Add_element(label)**
+# Add_element(label)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
@@ -19,7 +19,7 @@ as we don't draw it directly.
 
 Use this method to add new groups to the menu.
 
-**Activate()**
+# Activate()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
