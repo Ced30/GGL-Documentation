@@ -54,6 +54,6 @@ This method is called each frame, override it to run your own logic.
 
 # Variable Definitions tab
 
-[variable_definitions](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_menu.png)
+![variable_def](%5Benter%20link%20description%20here%5D%28https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_menu.png%29)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
