@@ -1,14 +1,14 @@
-## Class parent_GGL_menu
+# Class parent_GGL_menu
 
 A GUI element desined to build in-game menus, it can contain sub_groups of GGL_sub elements.
 You can navigate through the groups by switch them on / off (with a pop-in / pop-out effect).
 The label should stay empty, so you can draw the group's labels instead, and this instance doesn't require a sprite,
 as we don't draw it directly.
 
-## Relevant Methods
+# Relevant Methods
 
 
-# Add_element(label)
+## Add_element(label)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
@@ -19,7 +19,7 @@ as we don't draw it directly.
 
 Use this method to add new groups to the menu.
 
-# Activate()
+## Activate()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
