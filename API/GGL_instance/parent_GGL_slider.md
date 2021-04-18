@@ -4,6 +4,8 @@ A GUI slider, composed of:
 - 1 background panel
 - 1 progression bar
 - 1 draggable button
+- 1 label
+- 1 value
 
 Maintain left click while the mouse is above the button to move it along the slider panel.
 
