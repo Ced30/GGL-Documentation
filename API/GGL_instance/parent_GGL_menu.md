@@ -19,6 +19,7 @@ as we don't draw it directly.
 
 Use this method to add new groups to the menu.
 
+
 ## Activate()
 
 | Parameter   |  type   |              description                   |
