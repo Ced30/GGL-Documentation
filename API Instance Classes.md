@@ -20,7 +20,7 @@
 - [parent_GGL_slider](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_slider.md)
 - [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_text_input_box.md)
 - [parent_GGL_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_toggle.md)
-- parent_GGL_toggle_linked
+- [parent_GGL_toggle_linked](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_toggle_linked.md)
 
 **Parent container classes:**
 - parent_GGL_container
