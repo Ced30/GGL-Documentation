@@ -26,7 +26,7 @@
 - [parent_GGL_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_container.md)
 - [parent_GGL_dropdown](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_dropdown.md)
 - [parent_GGL_list](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_list.md)
-- parent_GGL_textbox
+- [parent_GGL_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_textbox.md)
 
 **Parent pop-up container classes:**
 - parent_GGL_popup_container
