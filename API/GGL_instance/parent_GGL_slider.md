@@ -1,4 +1,4 @@
-## Class parent_GGL_slider
+# Class parent_GGL_slider
 
 A GUI slider, composed of:
 - 1 background panel
@@ -11,7 +11,7 @@ You can set the min, max, of the slider, and retrieve the current value with the
 
 The slider can use either decimal or integer values, set it in the variable definitions tab.
 
-## Relevant Methods
+# Relevant Methods
 
 # Variable Definitions:
 
@@ -31,4 +31,4 @@ The slider can use either decimal or integer values, set it in the variable defi
 
 **value_type**     => type of value (decimal or integer)
 
-## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
