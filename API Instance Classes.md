@@ -13,7 +13,7 @@
 - [parent_GGL_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_checkbox.md)
 - [parent_GGL_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable.md)
 - [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable_animated.md)
-- parent_GGL_grabbable
+- [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_grabbable.md)
 - parent_GGL_grabbable_animated
 - parent_GGL_maintainable
 - parent_GGL_progression_bar
@@ -32,10 +32,5 @@
 - parent_GGL_popup_container
 - parent_GGL_popup_message
 - parent_GGL_window
-
-**Pop-up prefabs classes:**
-- obj_GGL_popup_CONFIRM_CANCEL
-- obj_GGL_window_with_confirmation
-- obj_GGL_windows_value_return
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
