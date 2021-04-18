@@ -1,5 +1,7 @@
 ## Class parent_GGL_maintainable
 
+same as the default button, except, you can maintain left click to call the "Activate" method repeatedly.
+    
 ## Relevant Methods
 
 N/A
