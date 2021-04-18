@@ -1,8 +1,6 @@
 # GML-GUI-Library-GGL-Documentation
 
-# GML GUI Library (GGL)
-
-Written by Ced30.
+GML GUI Library (GGL), Written by Ced30.
 
 # Welcome to GGL!
 
