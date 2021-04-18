@@ -26,7 +26,7 @@ Only the **main functions**, which would be **public** in an object oriented lan
 
 **Base classes:**
 - [parent_GGL](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL)
-- [parent_GGL_menu](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_menu)
+- [parent_GGL_menu](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_menu.md)
 
 **Parent classes:**
 - parent_GGL_label
