@@ -13,6 +13,28 @@ The slider can use either decimal or integer values, set it in the variable defi
 
 # Relevant Methods
 
+## Get_value()
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  N/A  |   N/A   |  N/A    |
+
+| Returns:  |  the "value" variable                                  |
+|--         |                                                      --|
+
+Returns the current value of the slider (the "value" variable)
+
+## Set_value(new_value)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  new_value  |   any   |  this variable can store any type of value    |
+
+| Returns:  |         N/A |
+|--         |                             --|
+
+Sets the current value of the slider
+
 # Variable Definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider.png)
