@@ -1,4 +1,4 @@
-## Class
+## Class parent_GGL_menu
 
 A GUI element desined to build in-game menus, it can contain sub_groups of GGL_sub elements.
 You can navigate through the groups by switch them on / off (with a pop-in / pop-out effect).
