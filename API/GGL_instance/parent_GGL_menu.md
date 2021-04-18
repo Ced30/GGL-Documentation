@@ -11,6 +11,7 @@ as we don't draw it directly.
 **Add_element()
 
 | Returns:  | the group that's been created    |
+|--         |                                --|
 |Parameters:| the label of the group to create |
 
 Use this method to add new groups to the menu.
