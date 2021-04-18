@@ -4,7 +4,7 @@ Struct classes cannot work by themselves, they must have an owner, typically a c
 
 **Base GGL_sub classes:**
 - [GGL_sub](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub.md)
-- GGL_sub_group
+- [GGL_sub_group](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_group.md)
 
 **Parent GGL_sub classes:**
 - [GGL_sub_label](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_label.md)
