@@ -31,6 +31,6 @@
 **Parent pop-up container classes:**
 - [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_popup_container.md)
 - [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_popup_message.md)
-- parent_GGL_window
+- [parent_GGL_window](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_window.md)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
