@@ -11,10 +11,10 @@ Struct classes cannot work by themselves, they must have an owner, typically a c
 - [GGL_sub_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_panel.md)
 
 **Parent GGL_sub button classes:**
-- [GGL_sub_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_button.md)
-- [GUI_sub_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_checkbox.md)
-- [GGL_sub_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20parent_GGL_draggable.md)
-- GGL_sub_grabbable
+- [GGL_sub_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_button.md)
+- [GUI_sub_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GUI_sub_checkbox.md)
+- [GGL_sub_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_draggable.md)
+- [GGL_sub_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API%20GGL_sub_grabbable.md)
 - GGL_sub_progression_bar
 - GGL_sub_slider
 - GGL_sub_text_input_box
