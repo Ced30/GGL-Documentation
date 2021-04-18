@@ -7,4 +7,4 @@ It does nothing by itself, it's just a building block.
 
 none, it holds mainly empty methods that are meant to be overriden.
 
-## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
+## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
