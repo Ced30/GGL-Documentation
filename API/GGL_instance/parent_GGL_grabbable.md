@@ -10,12 +10,4 @@ N/A
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_grabbable.png)
 
-**distance**     => the distance from the position of the instance and the mouse GUI position
-
-**grabbed**      => is the instance grabbed?
-
-**position_pre** => temporary position used to store the instance's position before moving it
-
-**state_GGL**    => the current state of the state machine
-
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
