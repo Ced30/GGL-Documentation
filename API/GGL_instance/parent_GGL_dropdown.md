@@ -36,7 +36,7 @@ Use this method to add new buttons manually.
 
 - **buttons_spacing**	 => the vertical spacing between buttons (multiplicated by the y scale).
 
-- **labels_sub_buttons** => an array of string labels to setup the GGL_sub buttons array without the need to inherit from this parent (ex: ["item0", "item1", "item3".. etc])
+- **labels_sub_buttons** => an array of string labels to setup the GGL_sub buttons array (ex: ["item0", "item1", "item3".. etc])
 
 - **script_sub_buttons** => a script common to all of the GGL_sub buttons created with the "labels_sub_buttons" variable.
 
