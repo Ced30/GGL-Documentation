@@ -17,3 +17,5 @@
 |--         |                             --|
 
 Use this function to create and return a parent_GGL object, you can pass an optional 9th argument that will be stored inside "value"
+
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
