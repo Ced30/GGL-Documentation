@@ -22,7 +22,7 @@
 | Returns:  | the GGL_sub created |
 |--         |                   --|
 
-Use this method to manually add GGL_sub elements to the container
+Use this method to manually add GGL_sub elements to the container, you can pass an optional argument that will be stored in the GGL_sub "value" variable.
 
 # Variable Declarations
 
