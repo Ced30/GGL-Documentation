@@ -13,6 +13,10 @@ The **GUI** elements are composed of gameObjects and structs.
 Only the **main functions**, which would be **public** in an object oriented language will be documented for now.
 **GGL** doesn't work with a Game Maker Studio2 version older than 2.3.
 
+GGL supports z-order, it uses a controller object (obj_GGL_controller) to draw all of the parent_GGL instances and handle their destruction.
+
+GGL GUI elements have 2 versions, the "parent" version, which is an object you can drag into the room, and the "sub" version, which is a struct and must have an owner (parent).
+
 ## Installation
 
 1.  In your GameMaker project, click "Tools" on the top menu.
@@ -39,6 +43,13 @@ The first layers of you room **must be the same** as in the picture below,
 
 Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
 to destroy a parent element, use the "Destroy()" method instead, the controller object will handle the parent's destruction.
+
+## Instancing parent_GGL_objects
+
+To use parent_GGL object, you must drag them into the room, then you can access the main relevant variables by clicking on the object's "variables" tab.
+
+![var_def1](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/variable_definitions2.png)
+
 
 ## API
 
