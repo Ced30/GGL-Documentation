@@ -41,18 +41,18 @@ Sets the current value of the slider
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider.png)
 
-**sprite_button**  => the sprite of the button
+- **sprite_button**  => the sprite of the button
 
-**sprite_panel**   => the sprite of the panel
+- **sprite_panel**   => the sprite of the panel
 
-**sprite_progBar** => the sprite of the progression bar
+- **sprite_progBar** => the sprite of the progression bar
 
-**color_progBar**  => the color of the progression bar
+- **color_progBar**  => the color of the progression bar
 
-**value_max**      => maximum value of the slider
+- **value_max**      => maximum value of the slider
 
-**value_min**      => minimum value of the slider
+- **value_min**      => minimum value of the slider
 
-**value_type**     => type of value (decimal or integer)
+- **value_type**     => type of value (decimal or integer)
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
