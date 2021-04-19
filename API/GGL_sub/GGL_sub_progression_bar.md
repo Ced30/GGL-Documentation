@@ -10,6 +10,16 @@ It can be used as progression bar of health bar.
 
 # Relevant Methods
 
+## Get_value()
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  N/A  |   N/A   |  N/A    |
+
+| Returns:  |  the value of the progression bar (stored inside the "value" variable) |
+|--         |                                                        --|
+
+
 ## Set_value_max(new_value)
 
 | Parameter   |  type   |              description                   |
