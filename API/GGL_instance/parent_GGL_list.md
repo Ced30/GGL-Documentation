@@ -6,11 +6,13 @@ or pass an array of to the "labels_sub_buttons" variable,	and passing a function
   
 The buttons are then created in the "Initialize" method.
 	
-*Important:*
+**Important:**
 	
 - By inheriting from this parent, you can have 1 function per GGL_sub button.
 	  
 - By setting things up after placing this instance into a room and tweaking the variable definitions, you can have only 1 function common to all the GGL_sub buttons.
+
+- **when clicking on a sub button, it's label is stored in the "value" variable**
 	
 The GGL_sub buttons stay hidden until "elements_active" is set to true, if you click outside of the dropdown, it will close itsef.
 
