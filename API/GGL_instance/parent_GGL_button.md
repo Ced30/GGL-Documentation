@@ -1,6 +1,6 @@
 # Class parent_GGL_button
 
-default button, can be interacted with to by left 
+The default button, can be interacted with to by left 
 clicking while the mouse is above the button,
 to call the "Activate" method.
   
