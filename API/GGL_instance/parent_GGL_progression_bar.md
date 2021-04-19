@@ -49,20 +49,20 @@ Use this function to make the drawn value shake.
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_progression_bar.png)
 
-**sprite_panel**    => the panel's sprite
+- **sprite_panel**    => the panel's sprite
 
-**sprite_progBar**  => the progression bar's sprite
+- **sprite_progBar**  => the progression bar's sprite
 
-**color_progBar1**  => the color of the progression bar (before)
+- **color_progBar1**  => the color of the progression bar (before)
 
-**color_progBar2**  => the color of the progression bar interpolated (behind)
+- **color_progBar2**  => the color of the progression bar interpolated (behind)
 
-**value_max**       => the maximum value
+- **value_max**       => the maximum value
 
-**value_type**      => the type of value to output (decimal or integer)
+- **value_type**      => the type of value to output (decimal or integer)
 
-**is_shake**        => does the text shake when "value" is low?
+- **is_shake**        => does the text shake when "value" is low?
 
-**shake_threshold** => how low does the value have to be before the text starts to shake (ex: 0.3 for 30% of the bar)
+- **shake_threshold** => how low does the value have to be before the text starts to shake (ex: 0.3 for 30% of the bar)
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
