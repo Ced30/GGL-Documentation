@@ -17,6 +17,6 @@ a simple toggle button, calls the "Activate" method when it's clicked.
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_toggle.png)
 
-**toggled**       => is the button toggled?
+- **toggled**       => is the button toggled?
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
