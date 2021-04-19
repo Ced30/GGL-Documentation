@@ -4,7 +4,7 @@ base button container, contains GGL_sub elements,	which are shown and interactab
   
 # Relevant Methods
 
-## - Add_element(type, label, script, x, y, w, h)
+## Add_element(type, label, script, x, y, w, h)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
@@ -21,7 +21,7 @@ base button container, contains GGL_sub elements,	which are shown and interactab
 
 Use this method to manually add GGL_sub elements to the container
 
-## - Update_logic()
+## Update_logic()
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |    N/A      |   N/A   |                    N/A                     |
