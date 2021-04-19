@@ -25,6 +25,5 @@ Struct classes cannot work by themselves, they must have an owner, typically a c
 - [GGL_sub_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_container.md)
 - [GGL_sub_dropdown](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_dropdown.md)
 - [GUI_sub_list](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GUI_sub_list.md)
-- [GGL_sub_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub/GGL_sub_textbox.md)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
