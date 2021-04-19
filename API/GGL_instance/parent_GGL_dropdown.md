@@ -30,6 +30,16 @@ if you click outside of the dropdown, it will close itsef.
 
 Use this method to add new buttons manually.
 
+## Update_logic()
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|    N/A      |   N/A   |                    N/A                     |
+
+| Returns:  | N/A |
+|--         |   --|
+
+This method is called each frame, override it to run your own logic.
+
 # Variable Definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_dropdown.png)
