@@ -18,7 +18,17 @@ if you click outside of the dropdown, it will close itsef.
 
 # Relevant Methods
 
-N/A
+## Add_element(label, script)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   label     | string  | the label of the sub button that will be created |
+|   script     | script id  | the "Activate" function of sub button created |
+
+| Returns:  | the button that's been created |
+|--         |                             --|
+
+Use this method to add new buttons manually.
 
 # Variable Definitions:
 
