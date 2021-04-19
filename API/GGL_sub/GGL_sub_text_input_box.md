@@ -1,4 +1,4 @@
-## Class
+## Class GGL_sub_text_input
 
 ## Relevant Methods
 
