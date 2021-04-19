@@ -1,4 +1,4 @@
-## Class parent_GGL_list
+# Class parent_GGL_list
 
 A list container using buttons GGL_sub buttons, you can setup the sub buttons either by code, after inheriting from this parent, with the "Add_element"	method, 	
 or pass an array of to the "labels_sub_buttons" variable,	and passing a function to the "script_sub_buttons" variable.
@@ -14,7 +14,7 @@ The buttons are then created in the "Initialize" method.
 	
 The GGL_sub buttons stay hidden until "elements_active" is set to true, if you click outside of the dropdown, it will close itsef.
 
-## Relevant Methods
+# Relevant Methods
 
 ## Add_element(label, script)
 
@@ -38,4 +38,4 @@ Use this method to add new buttons manually.
 
 - **script_sub_buttons** => a script common to all of the GGL_sub buttons created with the "labels_sub_buttons" variable, set it to -1 if you don't use it.
 
-## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
