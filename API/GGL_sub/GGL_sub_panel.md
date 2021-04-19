@@ -22,7 +22,7 @@ A static object which displays a panel, an icon and a text.
 
 Use this method to draw sprites with a shadow behind them.
 
-# variable declarations
+# Variable Declarations:
 
 - **desired_width"  => the desired width of the panel when scaled to min	(in pixels)
 - **desired_height" => the desired height of the panel when scaled to min	(in pixels)
