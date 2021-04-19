@@ -1,6 +1,6 @@
 # Class GGL_sub_grabbable
 
-same as GGL_sub_button, except, you can grab it	and move it across the room if after clicking left while the mouse is above the panel.
+Same as GGL_sub_button, except, you can grab it	and move it across the room if after clicking left while the mouse is above the panel.
 
 # Relevant Methods
 
