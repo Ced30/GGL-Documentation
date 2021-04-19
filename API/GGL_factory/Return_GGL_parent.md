@@ -15,3 +15,5 @@
 
 | Returns:  | the parent that's been created |
 |--         |                             --|
+
+Use this function to create and return a parent_GGL object, you can pass an optional 9th argument that will be stored inside "value"
