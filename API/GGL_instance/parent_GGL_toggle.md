@@ -1,4 +1,4 @@
-# Class parent_GGL_toggle.md
+# Class parent_GGL_toggle
 
 a simple toggle button, calls the "Activate" method when it's clicked.
 
