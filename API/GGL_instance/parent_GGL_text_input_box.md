@@ -1,8 +1,7 @@
 # Class parent_GGL_text_input_box
 
-A box, that you can click on, to input some text and store it in the "value" variable, 
-click outside or press enter when it's writable to set thetext.
-  
+Click the box to make it writable type some text, and click outside or press enter to set the text you typed 	inside the "value" variable. 
+
 # Relevant Methods
 
 ## Get_value()
