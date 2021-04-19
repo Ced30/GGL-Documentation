@@ -7,7 +7,7 @@ It does nothing by itself, it's just a building block.
 
 none, it holds mainly empty methods that are meant to be overriden.
 
-# variable declarations:
+# Variable Declarations:
 
 - **alpha_max**         => the maximum alpha value
 - **alpha_modifier**    => use it to modify the alpha interpolations
