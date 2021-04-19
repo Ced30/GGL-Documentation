@@ -35,7 +35,7 @@ Override this method with the "activate_override" variable in the variable defin
 
 Stores any kind of value inside the "value" variable (this in conjonction with the "Activate" function can make each button unique in functionality)
 
-# variable declarations:
+# Variable Declarations:
 
 - **clicked**           => has the button been clicked?
 - **sound_active**      => the sound played when you interact with the button
