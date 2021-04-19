@@ -2,7 +2,7 @@
 
 The default button, can be interacted with to by left 
 clicking while the mouse is above the button,
-to call the "Activate" method.
+to call the "Activate" function.
   
 The "Activate" method can be overriden by "Activate_override" to 
 replace the "Activate" method.
