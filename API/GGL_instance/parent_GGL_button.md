@@ -51,5 +51,5 @@ Stores any kind of value inside the "value" variable (this in conjonction with t
 - **value**             => custom data storage, use if for what you want (i use it in menu buttons to store room names and change room with a function)
 - **color_value1**      => the color of the "value" text drawn (top)
 - **color_value2**      => the color of the "value" text drawn (bottom)
-- 
+
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
