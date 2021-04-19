@@ -24,7 +24,7 @@
 
 Use this method to manually add GGL_sub elements to the container, you can pass an optional argument that will be stored in the GGL_sub "value" variable.
 
-# variable declarations:
+# Variable Declarations:
 
 - **tween_duration** => how long does the scaling take?
 - **wait_duration**  => how long do we wait to be interactable with after scaling?
