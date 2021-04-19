@@ -1,6 +1,6 @@
 # Class parent_GGL_container
 
-base button container, contains GGL_sub elements,	which are shown and interactable only if "elements_active" is set to true.
+Base button container, contains GGL_sub elements,	which are shown and interactable only if "elements_active" is set to true.
   
 # Relevant Methods
 
