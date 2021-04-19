@@ -1,6 +1,6 @@
 # Class parent_GGL_textbox
 
-The text box opens, draws text messages with a typewriter effect and waits for the user to press the space key.
+The text box opens, draws text messages with a typewriter effect and waits for the user to press the space key, it scales vertically with the number of	text lines to display.
 
 - If you press space while it's typing, the typing is skipped and the whole text is displayed.
 
@@ -8,7 +8,6 @@ The text box opens, draws text messages with a typewriter effect and waits for t
 
 - If you press the escape key, the textbox will close.
 
-The text box scales vertically with the number of	text lines to display.
   
 # Relevant Methods
 
