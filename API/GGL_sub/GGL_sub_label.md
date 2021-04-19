@@ -1,6 +1,6 @@
 ## Class GGL_sub_label
 
-GGL_sub version of the parent_GL_label
+A static GGL_sub which displays a text at it's position and is not interactable with by the user.
 
 ## Relevant Methods
 
