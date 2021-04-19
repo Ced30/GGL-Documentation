@@ -56,4 +56,6 @@ This method is called each frame, override it to run your own logic.
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_menu.png)
 
+- **elements_active** => are the elements shown and interactable with?
+
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
