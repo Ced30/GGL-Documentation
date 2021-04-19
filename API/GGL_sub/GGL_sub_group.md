@@ -6,7 +6,7 @@
 
 # Relevant Methods
 
-## Add_element(type, label, script, x, y, w, h, (optional)value(optional))
+## Add_element(type, label, script, x, y, w, h, (optional)value)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
