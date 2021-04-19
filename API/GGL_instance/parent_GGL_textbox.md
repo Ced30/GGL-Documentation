@@ -25,7 +25,7 @@ N/A
 - **speed_typewriter**      => the speed the typewriter types at
 		
 - **sound_open**            => the sound played when the text box opens
-- 
+
 - **sound_close**           => the sound played when the text box closes
 		
 - **color_text_message1**   => the color of the text message (top)
