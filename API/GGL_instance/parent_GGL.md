@@ -1,6 +1,6 @@
 # Class
 
-The core GGL parent element, it's not to be used as is, it's intended to inherit from.
+The core GGL parent element, it's not to be used as is, it's intended to be inherited from.
 It does nothing by itself, it's just a building block.
 
 # Relevant Methods
