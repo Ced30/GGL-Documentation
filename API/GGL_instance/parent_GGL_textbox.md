@@ -3,8 +3,8 @@
 The text box opens, draws text messages with a typewriter effect and waits for the user to press the space key.
 
 If you press space while it's typing, the typing is skipped and the whole text is displayed.
-
 If you press it while it's not typing, you either load the next text message or close the text box.
+If you press the escape key, the textbox will close.
 
 The text box scales vertically with the number of	text lines to display.
   
