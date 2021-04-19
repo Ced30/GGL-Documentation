@@ -5,7 +5,7 @@ It does nothing by itself, it's just a building block.
 
 # Relevant Methods
 
-none, it holds mainly empty methods that are meant to be overriden.
+N/A
 
 # Variable Definitions:
 
