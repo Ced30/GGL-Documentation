@@ -1,6 +1,6 @@
 # Class parent_GGL_draggable
 
-same as the default button, except, you can drag it across the room if the mouse is above the button and left click is maintained.
+Same as the default button, except, you can drag it across the room if the mouse is above the button and left click is maintained.
     
 # Relevant Methods
 
