@@ -10,3 +10,9 @@ Those are wrapper functions used to create GGL elements
 
 - **[Return_GGL_sub_group(type, label, x, y)](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/Return_GGL_sub_group.md)**
 
+# TextBoxes
+
+- **[GGL_script_create_textbox(type, label, x, y)](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox)**
+
+
+
