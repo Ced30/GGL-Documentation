@@ -44,12 +44,15 @@ The first layers of you room **must be the same** as in the picture below,
 Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
 to destroy a parent element, use the "Destroy()" method instead, the controller object will handle the parent's destruction.
 
-## Instancing parent_GGL_objects
+## Instancing parent_GGL objects
 
-To use parent_GGL object, you must drag them into the room, then you can access the main relevant variables by clicking on the object's "variables" tab.
+Once you have dragged the parent_GGL object into the room, you can access the main relevant variables by clicking on the object's "variables" tab and override them.
 
 ![var_def1](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/variable_definitions2.png)
 
+Else, if the object has not been dragged into the room, you can access it's main relevant variables by clicking on the "variable definitions" tab.
+
+![var_def1](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/variable_definitions1.png)
 
 ## API
 
