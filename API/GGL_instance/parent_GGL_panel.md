@@ -1,6 +1,6 @@
 # Class parent_GGL_panel
 
-Panels display a panel sprite, an icon sprite and a string label.
+A static object which displays a panel, an icon and a text.
 
 # Relevant Methods
 
