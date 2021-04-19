@@ -11,7 +11,7 @@
 |   y     | real  | the "Activate" function of sub button created |
 |   w     | real  | the "Activate" function of sub button created |
 |   h     | real  | the "Activate" function of sub button created |
-|   value | any type  | optional parameter, store it's value into "value" |
+| (Optional)value | any type  | optional parameter, store it's value into "value" |
 
 | Returns:  | the parent that's been created |
 |--         |                             --|
