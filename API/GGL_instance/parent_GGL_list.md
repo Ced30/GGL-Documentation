@@ -30,7 +30,7 @@ Use this method to add new buttons manually.
 
 # Variable Definitions:
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_dropdown.png)
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_list.png)
 
 - **buttons_spacing**	 => the vertical spacing between buttons (multiplicated by the y scale).
 
