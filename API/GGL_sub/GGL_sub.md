@@ -1,6 +1,6 @@
 ## Class GGL_sub
 
-TThe core GGL_sub element, it's not to be used as is, it's intended to be inherited from.
+The core GGL_sub element, it's not to be used as is, it's intended to be inherited from.
 It does nothing by itself, it's just a building block.
 
 ## Relevant Methods
