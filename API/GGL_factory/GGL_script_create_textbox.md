@@ -1,11 +1,3 @@
-_pLabel, 
-										   _pText_message_array, 
-										   _pScript, 
-										   _pPosX, 
-										   _pPosY, 
-										   _pDesiredW, 
-										   _pDesiredH
-
 # Function Return_GGL_parent(label, text_messages_array, script, offset_x, offset_y, desired_width desired_height)
 
  Parameter    |  type   |              description                   |
