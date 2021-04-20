@@ -8,10 +8,11 @@
 | Returns:  | the pop-up window that's been created |
 |--         |                             --|
 
-Creates and return a window popup which contains: - 1 Ok button
-																	                  1 close button
-                                                    1 label to display
-                                                    1 value to display
+Creates and return a window popup which contains: 
+- 1 Ok button
+- 1 close button
+- 1 label to display
+- 1 value to display
 																	
 The pop-up window destroys closes when clicked.
 
