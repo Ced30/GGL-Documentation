@@ -26,8 +26,6 @@ This method let's you set the icon to display.
 
 This method let's you set the panel to display.
 
-
-
 # Variable definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_panel.png)
