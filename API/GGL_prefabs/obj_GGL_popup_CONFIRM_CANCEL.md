@@ -1,8 +1,11 @@
 ## Class obj_GGL_popup_CONFIRM_CANCEL
 
-A "GGL_window" with a close button, a "Cancel" button and a "Confirm" button.
+A "GGL_window" with:
+- 1 "close" button
+- 1 "Cancel" button
+- 1 "Confirm" button
 	
-Override "Activate" with the "Activate_override" variable	to call your own function when "Confirm" is clicked.
+Override "Activate" with the "Activate_override" variable to call your own function when "Confirm" is clicked.
 	
 The "Cancel" button closes the window.
 
