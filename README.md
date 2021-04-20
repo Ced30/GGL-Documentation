@@ -64,7 +64,7 @@ Else, if the object has not been dragged into the room, you can access it's main
 
 - [**Struct Classes**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Struct%20Classes.md)
 
-- [**Common methods**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Common_Methods.md)
+- [**Common methods**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
 
 **Functions:**
 
