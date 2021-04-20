@@ -4,23 +4,29 @@ A static object which displays a panel, an icon and a text.
 
 # Relevant Methods
 
-## Draw_sprite_at(sprite, image_index, x, y, scale_x, scale_y, color, shadow_thickness)
+## Set_icon(new_panel)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|   sprite      | sprite id  |        the id of the sprite to draw     |
-|   image_index      | integer  |      the image_index of the sprite to draw          |
-|   x         | real    |      the x position to draw the sprite at    |
-|   y         | real    |       the y position to draw the sprite at   |
-|   scale_x    | real   |     horizontal scale       |
-|   scale_y    | real   |    vertical scale   |
-|   color      | color   |          the tint of the sprite   |
-|   shadow_thickness    | integer   |   the thickness of the shadow behind the sprite  |
+|   new_icon      | sprite id  |  the new icon to display    |
 
 | Returns:  | N/A |
 |--         |                             --|
 
-Use this method to draw sprites with a shadow behind them.
+This method let's you set the icon to display.
+
+## Set_panel(new_panel)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   new_panel      | sprite id  |  the new panel to display    |
+
+| Returns:  | N/A |
+|--         |                             --|
+
+This method let's you set the panel to display.
+
+
 
 # Variable definitions:
 
