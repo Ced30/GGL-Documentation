@@ -1,4 +1,4 @@
-# Function Return_GGL_parent(label, text_messages_array, script, offset_x, offset_y, desired_width desired_height)
+# Function GGL_script_create_textbox(label, text_messages_array, script, offset_x, offset_y, desired_width desired_height)
 
  Parameter    |  type   |              description                   |
 |--           |       --|--                                          |
