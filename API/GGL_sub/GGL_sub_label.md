@@ -13,7 +13,7 @@ A static GGL_sub which displays a text at it's position and is not interactable 
 | Returns:  | N/A |
 |--         |                             --|
 
-Use this method to modify or limit the alpha value af the whole instance draw event
+Use this method to set a multiplier for "image_alpha"
 
 ## Set_label(new_label)
 
