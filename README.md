@@ -66,3 +66,4 @@ Else, if the object has not been dragged into the room, you can access it's main
 
 - [**Factory Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
 
+- [**Helper Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
