@@ -2,7 +2,7 @@
 
 Those are usefull functions used by GUI elements
 
-- **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
+- **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
 - **[GGL_script_close_owner](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
 - **[GGL_script_close_self](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
 - **[GGL_script_goto_room](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
