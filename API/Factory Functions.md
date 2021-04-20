@@ -18,6 +18,7 @@ Those are wrapper functions used to create GGL elements
 
 - **[Return_GGL_popup_with_confirmation](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/Return_GGL_popup_with_confirmation.md)**
 
+- **[Return_GGL_popup_with_confirmation_cancel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/Return_GGL_popup_with_confirmation_cancel.md)**
 
 # TextBoxes
 
