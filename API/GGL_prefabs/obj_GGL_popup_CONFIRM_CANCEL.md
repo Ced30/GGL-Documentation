@@ -1,7 +1,7 @@
 ## Class obj_GGL_popup_CONFIRM_CANCEL
 
 A "GGL_window" with:
-- 1 "close" button
+- 1 "Close" button
 - 1 "Cancel" button
 - 1 "Confirm" button
 	
