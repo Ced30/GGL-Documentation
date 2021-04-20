@@ -2,12 +2,12 @@
 
 Those, are the methods common to most parent_GGL / GGL_sub
 
-**parent_GGL:**
+## **parent_GGL:**
 
 - **[Set_others_interactive](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_others_interactive.md)**
 - **[Set_interactive](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_interactive.md)**
 
-**All:**
+## **All:**
 
 - **[Allow_scaling](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Allow_scaling.md)**
 - **[Alpha_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Alpha_to.md)**
@@ -19,4 +19,4 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Scale_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Scale_to.md)**
 - **[Set_state](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_text_at.md)**
 
-## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
