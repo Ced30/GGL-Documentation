@@ -14,6 +14,8 @@
 | Returns:  | N/A |
 |--         |                             --|
 
+`'Usage: Draw_sprite_at(my_sprite, 0, 150, 300, 1, 1, c_white, 4)'`
+
 Use this method to draw sprites with a shadow behind them.
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
