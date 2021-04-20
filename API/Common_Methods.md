@@ -8,7 +8,7 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Set_interactive](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_interactive.md)**
 
 - **All:**
-- 
+
 - **[Allow_scaling](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Allow_scaling.md)**
 - **[Alpha_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Alpha_to.md)**
 - **[Alpha_is_zero](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Alpha_is_zero.md)**
