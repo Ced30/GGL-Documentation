@@ -13,3 +13,5 @@ Creates and return a window popup which contains:
 - 1 close button.
 																	
 The window closes itself when activated.
+
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
