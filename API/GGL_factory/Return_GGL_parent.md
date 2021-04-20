@@ -1,7 +1,7 @@
 
 # Function Return_GGL_parent(type, label, script, layer, x, y, w, h (Optional)value)
 
- Parameter    |  type   |              description                   |
+| Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |   type      | parent type id  | the type of the GGL_parent to create |
 |   label     | string  | the label of the GGL_parent to create |
