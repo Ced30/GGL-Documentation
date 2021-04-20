@@ -9,7 +9,7 @@
 |--         |                             --|
 
 Creates and return a window popup which contains: 
-- 1 Ok button
+- 1 confirm button
 - 1 close button
 - 1 label to display
 - 1 value to display
