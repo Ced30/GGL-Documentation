@@ -2,7 +2,7 @@
 
  Parameter    |  type   |              description                   |
 |--           |       --|--                                          |
-|   N/A      | N/A |
+|   N/A      | N/A | N/A
 
 | Returns:  | the popup window that's been created |
 |--         |                             --|
