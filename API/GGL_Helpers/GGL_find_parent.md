@@ -9,4 +9,4 @@
 
 Use this function to find a parent instance, you **MUST** set the GGL_id on the parent first (drag the element and click on "variables" to set it).
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
