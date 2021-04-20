@@ -16,6 +16,9 @@ Those are wrapper functions used to create GGL elements
 
 - **[Return_GGL_popup_show_value](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/Return_GGL_popup_show_value.md)**
 
+- **[Return_GGL_popup_with_confirmation](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/Return_GGL_popup_with_confirmation.md)**
+
+
 # TextBoxes
 
 - **[GGL_script_create_textbox(type, label, x, y)](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
