@@ -3,7 +3,7 @@
 |  Parameter    |  type   |     description        |
 |--             |       --|--                      |
 |   label       | string  | the text to display    |
-|   script      | script  | the script to run on the pop-up  |
+|   script      | script  | the script to run on confirmation  |
 
 | Returns:  | the pop-up window that's been created |
 |--         |                                     --|
