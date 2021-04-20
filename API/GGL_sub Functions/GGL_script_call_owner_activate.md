@@ -4,7 +4,7 @@
 |--           |       --|--                                          |
 |   N/A      | N/A | N/A
 
-| Returns:  | the popup window that's been created |
+| Returns:  | N/A |
 |--         |                             --|
 
 Calls the "Activate" method of the owner instance of this GGL_sub.
