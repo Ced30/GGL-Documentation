@@ -4,6 +4,7 @@ A "GGL_window" with:
 - 1 "Close" button
 - 1 "Cancel" button
 - 1 "Confirm" button
+- 1 string label
 	
 Override "Activate" with the "Activate_override" variable to call your own function when "Confirm" is clicked.
 	
