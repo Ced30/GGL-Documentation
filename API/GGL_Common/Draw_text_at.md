@@ -11,6 +11,8 @@
 | Returns:  | N/A |
 |--         |                             --|
 
+`Usage: Draw_text_at("my_text", 150, 300, c_white, c_gray);`
+
 Draws text at a given location, and a given color.
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
