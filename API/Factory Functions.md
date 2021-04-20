@@ -22,6 +22,6 @@ Those are wrapper functions used to create GGL elements
 
 # TextBoxes
 
-- **[GGL_script_create_textbox(type, label, x, y)](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
+- **[GGL_script_create_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_factory/GGL_script_create_textbox.md)**
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
