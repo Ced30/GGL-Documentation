@@ -9,7 +9,7 @@
 |--         |                                     --|
 
 Creates and return a window popup which contains: 
-- 1 Ok button,
+- 1 confirm button,
 - 1 close button.
 																	
 The window closes itself when activated.
