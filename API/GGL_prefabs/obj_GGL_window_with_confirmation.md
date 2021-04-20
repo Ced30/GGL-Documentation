@@ -4,8 +4,7 @@ A "GGL_window" with:
 - 1 "Close" button
 - 1 "Ok" button.
 	
-	Override "Activate" with the "Activate_override" variable
-	to call your own function when "Ok" is clicked.
+Override "Activate" with the "Activate_override" variable to call your own function when "Ok" is clicked.
   
 ## Relevant Methods
 
