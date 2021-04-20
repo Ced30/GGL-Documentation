@@ -8,6 +8,6 @@
 | Returns:  | N/A |
 |--         |                             --|
 
-Clamps the value between 0 and 1, then, multiplies it by "alpha_modifier" and interpolates image_alpha.
+Clamps the value between 0 and alpha_max, then, multiplies it by "alpha_modifier" and interpolates image_alpha.
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
