@@ -16,6 +16,8 @@
 | Returns:  | the GGL_parent that's been created |
 |--         |                             --|
 
-Use this function to create and return a parent_GGL object, you can pass an optional 9th argument that will be stored inside "value"
+Use this function to create and return a parent_GGL object, you can pass an optional 9th argument that will be stored inside "value".
+
+Note that you shouldn't use it to return a parent_GGL_menu or a popup_window.
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
