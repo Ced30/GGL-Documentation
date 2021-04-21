@@ -1,4 +1,4 @@
-# parent_GGL normal
+# GGL element
 
 ## Function Set_interactive(pInteractive)
 
@@ -11,7 +11,7 @@
 
 Enable or disable the mouse_hover checks of	this instance.
 
-# parent_GGL container
+# GGL container
 
 ## Function Set_interactive(pInteractive)
 
