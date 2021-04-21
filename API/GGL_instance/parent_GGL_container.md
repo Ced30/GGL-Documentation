@@ -22,6 +22,7 @@ Base button container, contains GGL_sub elements,	which are shown and interactab
 Use this method to manually add GGL_sub elements to the container
 
 ## Update_logic()
+
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |    N/A      |   N/A   |                    N/A                     |
