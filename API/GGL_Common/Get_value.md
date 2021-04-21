@@ -9,4 +9,4 @@
 | Returns:  |  the "value" variable, which can store any type of value |
 |--         |                                                        --|
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
