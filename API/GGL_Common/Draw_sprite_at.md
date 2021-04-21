@@ -1,5 +1,7 @@
 # Method Draw_sprite_at(sprite, image_index, x, y, scale_x, scale_y, color, shadow_thickness)
 
+## This method is available on class panel and it's children
+
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |   sprite      | sprite id  |        the id of the sprite to draw     |
