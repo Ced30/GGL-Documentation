@@ -5,6 +5,7 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Allow_scaling](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Allow_scaling.md)**
 - **[Alpha_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Alpha_to.md)**
 - **[Alpha_is_zero](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Alpha_is_zero.md)**
+- **[Check_mouse_hover](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Check_mouse_hover.md)**
 - **[Destroy](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Destroy.md)**
 - **[Draw_text_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_text_at.md)**
 - **[Draw_sprite_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_sprite_at.md)**
