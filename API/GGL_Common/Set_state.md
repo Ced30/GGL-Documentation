@@ -1,4 +1,4 @@
-# Function Set_state(state)
+# Method Set_state(state)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
