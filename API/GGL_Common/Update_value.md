@@ -1,6 +1,6 @@
-# Function Update_value()
+# Method Update_value()
 
-## Function available on class button and children
+## this method is available on class button and it's children
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
