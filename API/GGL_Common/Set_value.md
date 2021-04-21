@@ -1,6 +1,6 @@
-# Function Set_value(new_value)
+# Method Set_value(new_value)
 
-## Function available on class button and children
+## This method is available on class button and it's children
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
