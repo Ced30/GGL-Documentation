@@ -1,5 +1,11 @@
 # Function Allow_scaling(my_bool)
 
+## GGL element
+
+## GGL container
+
+## both
+
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |   my_bool      | bool  |    is the GUI element allowed to scale?      |
