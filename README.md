@@ -12,7 +12,7 @@ The **GUI** elements are composed of gameObjects and structs.
 
 ## Description
 
-Only the **main functions**, which would be **public** in an object oriented language will be documented for now.
+Only the **relevant functions**, which would be **public** in an object oriented language will be documented for now.
 **GGL** doesn't work with a Game Maker Studio2 version older than 2.3.
 
 GGL supports z-order, it uses a controller object (obj_GGL_controller) to draw all of the parent_GGL instances and handle their destruction.
