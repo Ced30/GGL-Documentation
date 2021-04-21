@@ -1,4 +1,4 @@
-# Function Allow_scaling(my_bool)
+# Method Allow_scaling(my_bool)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
