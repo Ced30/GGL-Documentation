@@ -1,4 +1,4 @@
-# Function Initialize_font(pInteractive)
+# Function Initialize_font()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
