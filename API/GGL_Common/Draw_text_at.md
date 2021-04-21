@@ -1,5 +1,7 @@
 # Method Draw_text_at(text, x, y, color1, color2)
 
+## This method is available on class label and it's children
+
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |   text      | string  |           the text to draw                 |
