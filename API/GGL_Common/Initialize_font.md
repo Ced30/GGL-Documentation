@@ -1,4 +1,4 @@
-# Function Initialize_font()
+# Method Initialize_font()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
