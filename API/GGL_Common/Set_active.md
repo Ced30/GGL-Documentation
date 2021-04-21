@@ -1,4 +1,4 @@
-# Function Set_active(my_bool)
+# Method Set_active(my_bool)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
