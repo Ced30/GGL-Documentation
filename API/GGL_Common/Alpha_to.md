@@ -1,4 +1,4 @@
-# Function Alpha_to(value, speed)
+# Method Alpha_to(value, speed)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
