@@ -1,4 +1,4 @@
-# Function Destroy()
+# Method Destroy()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
