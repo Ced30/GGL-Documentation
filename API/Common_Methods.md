@@ -8,6 +8,7 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Destroy](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Destroy.md)**
 - **[Draw_text_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_text_at.md)**
 - **[Draw_sprite_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_sprite_at.md)**
+- **[Get_value](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Get_value.md)**
 - **[Initialize](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Initialize.md)**
 - **[Initialize_font](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Initialize_font.md)**
 - **[Scale_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Scale_to.md)**
