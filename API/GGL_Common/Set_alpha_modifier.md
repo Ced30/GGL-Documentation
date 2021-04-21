@@ -1,4 +1,4 @@
-# Function Set_alpha_modifier(modifier)
+# Method Set_alpha_modifier(modifier)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
