@@ -7,6 +7,6 @@
 | Returns:  | N/A |
 |--         |                             --|
 
-Enable or Disable all the GUI elements updates excepth this	instance.
+Enable or Disable all the GUI elements updates except this	instance.
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
