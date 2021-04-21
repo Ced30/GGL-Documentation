@@ -1,5 +1,7 @@
 # Method Initialize_font()
 
+## This method is available on class label and it's children
+
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
 |   N/A      | N/A  |      N/A      |
