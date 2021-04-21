@@ -16,7 +16,9 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Draw_text_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_text_at.md)**
 - **[Draw_sprite_at](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_sprite_at.md)**
 - **[Initialize](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Initialize.md)**
+- **[Initialize_font](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Initialize_font.md)**
 - **[Scale_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Scale_to.md)**
 - **[Set_state](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Draw_text_at.md)**
+- **[Set_alpha_modifier](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_alpha_modifier.md)**
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
