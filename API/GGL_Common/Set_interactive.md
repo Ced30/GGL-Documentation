@@ -1,12 +1,27 @@
-# Function Set_interactive(pInteractive)
+# parent_GGL normal
+
+## Function Set_interactive(pInteractive)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|   pInteractive      | bool  |      is the instance interactive?      |
+|   pInteractive      | bool  |      sets the "interactive" variable      |
 
 | Returns:  | N/A |
 |--         |                             --|
 
 Enable or disable the update of	this instance.
+
+# parent_GGL container
+
+## Function Set_interactive(pInteractive)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   pInteractive      | bool  |      sets the "interactive" variable of this instance and it's sub elements      |
+
+| Returns:  | N/A |
+|--         |                             --|
+
+Enable or disable the update of	this instance and it's sub elements
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Common_Methods.md)
