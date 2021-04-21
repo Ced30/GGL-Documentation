@@ -12,3 +12,5 @@ If you drag the object into the room, you can access it's main relevant variable
 When inheriting from a parent, you can access it's main relevant variables by clicking on the "variable definitions" tab.
 
 ![var_def1](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/variable_definitions1.png)
+
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
