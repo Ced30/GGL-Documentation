@@ -1,6 +1,6 @@
-# GGL element
 
-## Function Set_interactive(pInteractive)
+
+# Method Set_interactive(pInteractive)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
@@ -9,18 +9,11 @@
 | Returns:  | N/A |
 |--         |                             --|
 
+## GGL element
+
 Enable or disable the mouse_hover checks of	this GGL element.
 
-# GGL container
-
-## Function Set_interactive(pInteractive)
-
-| Parameter   |  type   |              description                   |
-|--           |       --|--                                          |
-|   pInteractive      | bool  |      sets the "interactive" variable of this instance and it's sub elements      |
-
-| Returns:  | N/A |
-|--         |                             --|
+## GGL container
 
 Enable or disable the mouse_hover checks of	this GGL element and it's sub elements
 
