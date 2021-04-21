@@ -1,4 +1,4 @@
-# Function Update_logic()
+# Method Update_logic()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
