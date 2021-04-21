@@ -2,6 +2,7 @@
 
 To instanciate a parent_GGL objects, you can either drag it into the room or create it by code, with the "Return_GGL_parent" function.
 
+## Accessing Variables:
 
 If you drag the object into the room, you can access it's main relevant variables by clicking on the object's "variables" tab and override them.
 
