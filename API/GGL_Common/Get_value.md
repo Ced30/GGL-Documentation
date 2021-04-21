@@ -1,6 +1,6 @@
 # Method Get_value()
 
-## this method is available on class button and children
+## this method is available on class button and it's children
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
