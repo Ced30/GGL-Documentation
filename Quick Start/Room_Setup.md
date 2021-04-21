@@ -1,4 +1,4 @@
-**Room Setup:**
+# Room Setup
 
 The first layers of you room **must be the same** as in the picture below, 
 - the first one is a layer reserved to run VFX like vignette, etc (see it in action in the demo rooms),
