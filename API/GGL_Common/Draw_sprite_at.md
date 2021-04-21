@@ -1,4 +1,4 @@
-## Method Draw_sprite_at(sprite, image_index, x, y, scale_x, scale_y, color, shadow_thickness)
+# Method Draw_sprite_at(sprite, image_index, x, y, scale_x, scale_y, color, shadow_thickness)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
