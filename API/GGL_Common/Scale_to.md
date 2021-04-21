@@ -1,4 +1,4 @@
-# Function Scale_to(value, speed)
+# Method Scale_to(value, speed)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
