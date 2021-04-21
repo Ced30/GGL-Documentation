@@ -1,4 +1,4 @@
-# Function Draw_text_at(text, x, y, color1, color2)
+# Method Draw_text_at(text, x, y, color1, color2)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
