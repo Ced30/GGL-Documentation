@@ -1,4 +1,4 @@
-# Function Set_others_interactive()
+# Method Set_others_interactive()
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
