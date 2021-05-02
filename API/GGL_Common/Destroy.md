@@ -4,7 +4,7 @@
 |--           |       --|--                                          |
 |   N/A      | N/A  |           N/A                 |
 
-| Returns:  | is image_alpha equal to zero? |
+| Returns:  | N/A |
 |--         |                             --|
 
 **parent_GGL:**
