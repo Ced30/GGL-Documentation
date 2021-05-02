@@ -24,7 +24,7 @@ Those are functions used by parent_GGL_file_listing children
 
 ## GGL_color_palette
 
-**[GGL_script_color_palette_switch_colors](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_colors.md)**
-**[GGL_script_color_palette_switch_secondary](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_secondary.md)**
+- **[GGL_script_color_palette_switch_colors](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_colors.md)**
+- **[GGL_script_color_palette_switch_secondary](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_secondary.md)**
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
