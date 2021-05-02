@@ -4,7 +4,7 @@
 |--           |       --|--                                          |
 |   N/A      | N/A  |           N/A                 |
 
-| Returns:  | th variable GROUP_ID |
+| Returns:  | the "GROUP_ID" variable  |
 |--         |                             --|
 
 - Returns the variable GROUP_ID, which is used to treat this instance as part of an abstract group.
