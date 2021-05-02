@@ -4,7 +4,7 @@
 |--           |       --|--                                          |
 |   N/A      | N/A  |           N/A                 |
 
-| Returns:  | th variable GGL_ID |
+| Returns:  | the variable "GGL_ID" |
 |--         |                             --|
 
 - Returns the variable GGL_ID, which is used to fetch the instances.
