@@ -7,6 +7,6 @@
 | Returns:  | N/A |
 |--         |                             --|
 
-Adds an entry to the list of entries of a parent_GGL_file_listing
+Runs the "Add_entry" method of a parent_GGL_file_listing, then runs it's "Reload_entries" method
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
