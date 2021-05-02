@@ -17,6 +17,8 @@ Those, are the methods common to most parent_GGL / GGL_sub
 - **[Scale_to](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Scale_to.md)**
 - **[Set_active](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_active.md)**
 - **[Set_alpha_modifier](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_alpha_modifier.md)**
+- **[Set_GGL_ID](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_GGL_ID.md)**
+- **[Set_GROUP_ID](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_GROUP_ID.md)**
 - **[Set_interactive](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_interactive.md)**
 - **[Set_others_interactive](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_others_interactive.md)**
 - **[Set_scale_modifier](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Common/Set_scale_modifier.md)**
