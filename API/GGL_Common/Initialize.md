@@ -4,7 +4,7 @@
 |--           |       --|--                                          |
 |   N/A      | N/A  |           N/A                 |
 
-| Returns:  | is image_alpha equal to zero? |
+| Returns:  | N/A |
 |--         |                             --|
 
 Override this method and call it to run your own initialization logic.
