@@ -15,7 +15,7 @@ Those are usefull functions used by GUI elements
 
 Those are functions used by parent_GGL_file_listing children
 
-- **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
+- **[GGL_script_file_listing_add_entry](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_add_entry.md)**
 - **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
 - **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
 - **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
