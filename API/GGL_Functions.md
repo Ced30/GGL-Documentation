@@ -19,14 +19,12 @@ Those are functions used by parent_GGL_file_listing children
 - **[GGL_script_file_listing_remove_entry](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_remove_entry.md)**
 - **[GGL_script_file_listing_rename_entry](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_rename_entry.md)**
 - **[GGL_script_file_listing_scroll](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_scroll.md)**
-- **[GGL_script_file_listing_set_index](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
-- **[GGL_script_file_listing_set_input_box_value](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
-- **[GGL_script_file_listing_switch_indexes](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
+- **[GGL_script_file_listing_switch_indexes](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_switch_indexes.md)**
 
 
 ## GGL_color_palette
 
-**[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
-**[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
+**[GGL_script_color_palette_switch_colors](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_colors.md)**
+**[GGL_script_color_palette_switch_secondary](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_secondary.md)**
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
