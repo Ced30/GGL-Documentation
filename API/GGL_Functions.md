@@ -1,5 +1,15 @@
 ## GGL_Functions
 
+Those functions allow you to fetch GGL elements og groups
+
+- **[GGL_find_parent](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_parent.md)**
+- **[GGL_find_sub](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub.md)**
+- **[GGL_find_sub_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
+- **[GGL_find_group](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
+- **[GGL_find_group_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
+
+## GGL_Scripts
+
 Those are usefull functions used by GUI elements
 
 - **[GGL_script_call_owner_activate](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions/GGL_script_call_owner_activate.md)**
@@ -9,7 +19,6 @@ Those are usefull functions used by GUI elements
 - **[GGL_script_menu_set_group](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/GGL_script_menu_set_group.md)**
 - **[GGL_script_QUIT](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/GGL_script_QUIT.md)**
 - **[GGL_script_toggle_elements](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/GGL_script_toggle_elements.md)**
-
 
 ## GGL_file_listing
 
