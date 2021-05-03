@@ -9,4 +9,4 @@
 
 Returns the parent_GGL instance which has the same GGL_ID as the parameter variable (GGL_ID is a string)
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
