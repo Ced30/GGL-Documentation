@@ -25,7 +25,7 @@ Those are usefull functions used by GUI elements
 - **[GGL_script_QUIT](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/GGL_script_QUIT.md)**
 - **[GGL_script_toggle_elements](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/GGL_script_toggle_elements.md)**
 
-## GGL_file_listing
+## GGL_File_Listing
 
 Those are functions used by parent_GGL_file_listing children
 
@@ -36,9 +36,13 @@ Those are functions used by parent_GGL_file_listing children
 - **[GGL_script_file_listing_switch_indexes](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/File_listing/GGL_script_file_listing_switch_indexes.md)**
 
 
-## GGL_color_palette
+## GGL_Color_Palette
 
 - **[GGL_script_color_palette_switch_colors](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_colors.md)**
 - **[GGL_script_color_palette_switch_secondary](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_scripts/Palette/GGL_script_color_palette_switch_secondary.md)**
+
+## GGL_Helpers
+
+- **[GGL_get_GUI_dimensions](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_get_GUI_dimensions.md)**
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
