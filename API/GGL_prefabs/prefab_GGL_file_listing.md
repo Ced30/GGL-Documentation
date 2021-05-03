@@ -9,4 +9,8 @@ Override the specific scripts to implement your logic, see the "variables" tab a
 
 N/A
 
+# Variable Definitions:
+
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/prefab_GGL_file_listing.png)
+
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Prefabs.md)
