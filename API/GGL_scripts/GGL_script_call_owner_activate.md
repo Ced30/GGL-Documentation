@@ -9,4 +9,4 @@
 
 Calls the "Activate" method of the owner instance of this GGL_sub.
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
