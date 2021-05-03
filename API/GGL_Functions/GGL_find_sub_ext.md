@@ -10,4 +10,4 @@
 
 Fetches the parent instance and returns the GGL_sub contained	in the parent
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
