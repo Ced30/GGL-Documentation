@@ -61,7 +61,7 @@ to destroy a parent element, use the "Destroy()" method instead, the controller 
 
 - [**Factory Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Factory%20Functions.md)
 
-- [**GGL_Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/tree/main/API/GGL_scripts)
+- [**GGL_Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
 
 - [**Helper Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
 
