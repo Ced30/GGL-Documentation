@@ -9,4 +9,4 @@
 
 Retrieves a group id in the "value" variable of the GGL_sub calling this function and sets the corresponding group as active in the owner instance (a parent_GGL_menu).
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_sub%20Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
