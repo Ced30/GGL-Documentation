@@ -9,7 +9,7 @@ N/A
 
 # Variable Definitions:
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL.png)
+![var_def]()
 
 - **GGL_ID**		  => an identifier you can give the instance to find it with the "GGL_find_parent" script
 - **active**          => is the instance active?
