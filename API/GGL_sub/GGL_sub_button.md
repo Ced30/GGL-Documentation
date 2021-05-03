@@ -38,11 +38,12 @@ Stores any kind of value inside the "value" variable (this in conjonction with t
 # Variable Declarations:
 
 - **clicked**           => has the button been clicked?
+- **color_value1**      => the color of the "value" text drawn (top)
+- **color_value2**      => the color of the "value" text drawn (bottom)
 - **sound_active**      => the sound played when you interact with the button
 - **sound_hover**       => the sound played when the mouse is above the button
 - **sound_inactive**    => the sound played the button is released
 - **value**             => custom data storage, use if for what you want (i use it in menu buttons to store room names and change room with a function)
-- **color_value1**      => the color of the "value" text drawn (top)
-- **color_value2**      => the color of the "value" text drawn (bottom)
+- **value_pos**           => the position we draw "value" at
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Struct%20Classes.md)
