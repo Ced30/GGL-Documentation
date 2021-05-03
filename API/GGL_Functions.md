@@ -2,12 +2,12 @@
 
 Those functions allow you to fetch GGL elements og groups
 
-- **[GGL_find_parent](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_parent.md)**
-- **[GGL_find_sub](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub.md)**
-- **[GGL_find_sub_anywhere](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
-- **[GGL_find_sub_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
-- **[GGL_find_group](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
-- **[GGL_find_group_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Helpers/GGL_find_sub_ext.md)**
+- **[GGL_find_parent](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_parent.md)**
+- **[GGL_find_sub](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_sub.md)**
+- **[GGL_find_sub_anywhere](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_sub_anywhere.md)**
+- **[GGL_find_sub_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_sub_ext.md)**
+- **[GGL_find_group](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_group.md)**
+- **[GGL_find_group_ext](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions/GGL_find_group_ext.md)**
 
 ## GGL_Scripts
 
