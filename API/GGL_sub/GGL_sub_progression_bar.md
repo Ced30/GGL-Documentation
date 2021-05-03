@@ -69,7 +69,6 @@ Use this function to make the drawn value shake.
 - **sprite_progBar**      => the progression bar's sprite
 - **value_normalized**    => normalized "value", between 0 and 1
 - **value_normal_interp** => normalized "value" inerpolated
-- **value_pos**           => the position we draw "value" at
 - **value_max**           => the maximum value
 - **value_type**          => the type of value to output (decimal or integer)
 - **shake_threshold**     => the threshold before the text starts to shake (ex: 0.3 for 30% of the bar)
