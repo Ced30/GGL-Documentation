@@ -4,7 +4,7 @@
 |--             |       --|--                      |
 |   N/A      | N/A  | N/A |
 
-| Returns:  | a vector2 with x = GUI width and y = GUI height |
+| Returns:  | vector2 |
 |--         |                             --|
 
 Returns a new Vector2 with x = GUI width and y = GUI height
