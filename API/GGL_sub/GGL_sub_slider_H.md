@@ -1,4 +1,4 @@
-# Class GGL_sub_slider
+# Class GGL_sub_slider_H
 
 A HORIZONTAL GUI slider, composed of:
 - 1 background panel
