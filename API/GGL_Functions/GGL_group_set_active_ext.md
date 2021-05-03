@@ -1,4 +1,4 @@
-# Function GGL_group_set_active_anywhere(pGROUP_ID, pActive)
+# Function GGL_group_set_active_ext(pGROUP_ID, pActive)
 
 |  Parameter    |  type   |     description        |
 |--             |       --|--                      |
