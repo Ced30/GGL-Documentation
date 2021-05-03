@@ -39,7 +39,7 @@ Sets the current value of the slider
 
 # Variable Definitions:
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider.png)
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider_H.png)
 
 - **sprite_button**  => the sprite of the button
 - **sprite_panel**   => the sprite of the panel
