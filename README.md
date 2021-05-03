@@ -63,8 +63,6 @@ to destroy a parent element, use the "Destroy()" method instead, the controller 
 
 - [**GGL_Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
 
-- [**Helper Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
-
 ## Inheritance map
 
 - [**UML Diagrams**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Diagrams/Inheritance.md)
