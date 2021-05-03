@@ -10,4 +10,4 @@
 
 Returns the GGL_sub which has the same GGL_ID as the parameter variable "GGL_ID_sub" in the GGL_parent you passed as the parameter "parent_instance"	
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Helper_Functions.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
