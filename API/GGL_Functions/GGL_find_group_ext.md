@@ -1,4 +1,4 @@
-# Function GGL_find_group(pGROUP_ID)
+# Function GGL_find_group_ext(pGROUP_ID)
 
 |  Parameter    |  type   |     description        |
 |--             |       --|--                      |
