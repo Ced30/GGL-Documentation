@@ -4,7 +4,7 @@ This prefab is used as a color palette, Set the dimension you want after placing
 	
 The main instance is top left, the others are	spawned GGL_sub that covers the area.
 	
-Override the "Activate" method to implement the click	logic of the main instance.
+Override the "Activate" method to implement the click	logic of the main instance
 
 ## Relevant Methods
 
