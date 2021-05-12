@@ -33,16 +33,17 @@ It can be used as progression bar of health bar.
 
 Sets the new value of "value_max"
 
-## Set_value_type(new_type)
+## Set_value_type(pType)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|   new_type      | integer  |   new_type is an enum entry   |
+|  pType  |   enum   |  an enum entry (e_GGL_value_type.decimal or e_GGL_value_type.integer)    |
 
-| Returns:  | N/A |
+| Returns:  |         N/A |
 |--         |                             --|
 
-Sets the "value" variable to be integer or decimal.
+Sets the type of value (decimal or integer)
+
 
 ## Shake(duration, intensity)
 
