@@ -46,10 +46,17 @@ The GGL_sub we don't use in this example will receive -1 as 3rd argument (script
 
 And finally, we will pas as script that closes the game once the click sound has finished playing to the "Quit" button.
 
-![pass_the_func](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
+![page1](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
 
-## **4 - **
+## **4 - Create the second page**
 
+The first button, "sound", will lead to the 3rd page of the menu, wich will contain sliders, so we pass the index as 8th argument and the function to change menu group.
+
+2nd and 3rd elements are for show only, they are toggles, and they receive -1 as script argument.
+
+The las button leads back to page1.
+
+![page2](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page2.png)
 
 - **5 - **
 
