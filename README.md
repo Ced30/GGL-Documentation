@@ -78,6 +78,10 @@ Only the **relevant functions**, which would be **public** in an object oriented
 
 - [**GGL_Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
 
+**Event_Manager:**
+
+- [**Event Manager Funtions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
+
 ## Inheritance map
 
 - [**UML Diagrams**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Diagrams/Inheritance.md)
