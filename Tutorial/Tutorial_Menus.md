@@ -65,7 +65,7 @@ Finally, we create the 3rd and last group of this menus, it conrtains 3 sliders 
 ![page3](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page3.png)
 
 - **6 - Now is the time to compile and test our creation!**
-- 
+ 
 ![compile](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Tuto2_complete.gif)
 
 
