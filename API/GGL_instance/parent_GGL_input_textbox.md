@@ -1,4 +1,4 @@
-# Class parent_GGL_text_input_box
+# Class parent_GGL_input_textbox
 
 Click the box to make it writable type some text, and click outside or press enter to set the text you typed 	inside the "value" variable. 
 
