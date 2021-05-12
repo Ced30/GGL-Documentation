@@ -13,4 +13,4 @@ This function is used to register an instance to an event.
 
 Once the event is fired, the instance resitered with this function will run the script passed as argument.
 
-# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Event_Manager.md)
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Event_Manager_Functions.md)
