@@ -14,12 +14,6 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 
 **GGL** supports Game Maker Studio2 versions 2.3 and above. 
 
-**Features of the controller object:**
-- Instance destruction
-- Keeps track of which button is currently selected
-- Mouse input variables
-- Z-order
-
 **What the package contains:**
 - 1 Controller object
 - 1 Event_manager object
@@ -29,6 +23,15 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 - a collection of wrapper scripts
 - a collection of sprites
 - a collection of sounds
+
+**Features of the Controller object:**
+- Instance destruction
+- Keeps track of which button is currently selected
+- Mouse input variables
+- Z-order
+
+**Features of the Event_Manager object:**
+- Handles the events that you can fire or register to (greatly simplifies elements interaction)
 
 GGL GUI elements are divided in 2 categories, parent and children, the "parent" version, are objects that you can drag into the room, and the "children", are structs that must be added to a container parent.
 
