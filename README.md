@@ -67,6 +67,7 @@ not by itself nor as part of a project you want to distribute.
 - [**Room Setup**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Quick%20Start/Room_Setup.md)
 - [**Instancing parent_GGL objects**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Quick%20Start/Instancing_parent_GGL%20objects.md)
 - [**How to use events?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tuto.md)
+- [**How to_create_a_menu?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tuto.md)
 
 ## API
 
