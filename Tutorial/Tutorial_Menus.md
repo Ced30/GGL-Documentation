@@ -58,23 +58,15 @@ The las button leads back to page1.
 
 ![page2](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page2.png)
 
-- **5 - **
+- **5 - Create the last page**
 
-![button]()
+Finally, we create the 3rd and last group of this menus, it conrtains 3 sliders that are just here for show purposes, and a button leading back to page2
 
+![page3](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page3.png)
 
-
-- **6 - **
-
-
-
-![buttons2]()
-
-- **7 - Test your 1rst creation!**
+- **6 - Now is the time to compile and test our creation!**
+- 
+![compile](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Tuto2_complete.gif)
 
 
-
-![buttons2]()
-
-
-
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
