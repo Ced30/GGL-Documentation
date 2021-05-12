@@ -21,3 +21,8 @@ In a script file, the write the "Toggle_the_group" function, that we will pass t
 Once the toggle has been clicked, it will run this function and fire the event.
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/script_fire.png)
+
+Go back to the room, and scroll through the instance's variables until you find "Script_execute", paste the name of the function you created there.
+
+![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/pass_the_function.png)
+
