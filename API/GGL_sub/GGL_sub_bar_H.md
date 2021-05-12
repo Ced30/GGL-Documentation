@@ -1,4 +1,6 @@
-# Class GGL_sub_progression_bar
+# Class GGL_sub_bar_H
+
+** This bar is HORIZONTAL only **
 
 This class is composed of:
 - 1 background panel
