@@ -62,7 +62,7 @@ The las button leads back to page1.
 
 Finally, we create the 3rd and last group of this menus, it contains 3 sliders that are just here for show purposes.
 
-Just because i'm french, we will set their respective colors to the colors of the french flag, and we will create a last button, leading back to page2
+Just because i'm French, we will set their respective colors to the colors of the French flag, and we will create a last button, leading back to page2
 
 ![page3](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page3.png)
 
