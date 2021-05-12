@@ -84,6 +84,17 @@ Implement your own method to save the entry inside the data structure it's store
 
 Selects the current entry based on mouse GUI position, then, sets the string contained inside the "value" variable of the text input box and update the position of the slider
 
+## Set_new_listing(pStringArray)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|   pStringArray      | an array of strings  |  array of strings containing the new listing    |
+
+| Returns:  | N/A |
+|--         |                             --|
+
+Use this method to update the listing of strings you wanna display by providing a new array of strings
+
 ## Switch_indexes()
 
 | Parameter   |  type   |              description                   |
