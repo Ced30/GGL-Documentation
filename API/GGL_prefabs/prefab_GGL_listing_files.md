@@ -29,17 +29,6 @@ Override this method with the "activate_override" variable in the variable defin
 
 Implement your own method to add an entry to the data structure containing the entries.
 
-## Reload_entries()
-
-| Parameter   |  type   |              description                   |
-|--           |       --|--                                          |
-|   N/A      | N/A  |  N/A    |
-
-| Returns:  | N/A |
-|--         |                             --|
-
-Implement your own method to reload the list of entries	from the data structure it's stored in
-
 ## Remove_entry()
 
 | Parameter   |  type   |              description                   |
