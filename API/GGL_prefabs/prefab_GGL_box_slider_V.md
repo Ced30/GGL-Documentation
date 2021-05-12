@@ -5,7 +5,7 @@ A VERTICAL GUI slider, composed of:
 - 1 progression bar
 - 1 draggable button
 
-This slider is intended to be used with containers
+This slider is intended to be used with containers, it doesn't display the label or the value
 
 ## Relevant Methods
 
