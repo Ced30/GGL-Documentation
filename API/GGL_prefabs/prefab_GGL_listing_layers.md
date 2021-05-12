@@ -50,5 +50,8 @@ Use this method to update the listing of strings you wanna display by providing 
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/prefab_GGL_listing_layers.png)
 
+
+- "Script_set_layer_visible" => the script that you must override to implement your own logic when the "visible" button is toggled.
+
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Prefabs.md)
 
