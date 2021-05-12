@@ -50,7 +50,7 @@ And finally, we will pas as script that closes the game once the click sound has
 
 ## **4 - Create the second page**
 
-The first button, "sound", will lead to the 3rd page of the menu, wich will contain sliders, so we pass the index as 8th argument and the function to change menu group.
+The first button, "sound", will lead to the 3rd page of the menu, so, we pass the index of the 3rd page as 8th argument and we pass the function to change menu group.
 
 2nd and 3rd elements are for show only, they are toggles, and they receive -1 as script argument.
 
