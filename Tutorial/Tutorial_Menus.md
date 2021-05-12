@@ -20,36 +20,36 @@ Example, if you want a GGL_sub at the center of the GUI, it's coordinates will b
 
 ![toggle](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/declarations.png)
 
-## **3 - Create the script that will fire the event**:
+## **3 - Create first page of our menu**:
 
-In a script file, the write the "Toggle_the_group" function, that we will pass to the toggle.
+First we will add a group that will contain the 1rst page to the menu by using the "Add_group" method, it takes only a string name as argument.
 
-Once the toggle has been clicked, it will run this function and fire the event.
+The method returns the group created, so we can store it into a variable and use this variable to add GUI elements to the group.
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/script_fire.png)
 
-## **4 - pass the script to the toggle**
-Go back to the room, and scroll through the instance's variables until you find "Script_execute", paste the name of the function you created there.
+## **4 - **
 
-![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/pass_the_function.png)
 
-- **6 - Create another script, that the buttons will run once the toggle is clicked**
+![pass_the_func](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
 
-![button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/script_when_toggled.png)
+- **5 - **
 
-It's a simple script, it receives a boolean in parameters, and sets the instance that runs this script active with this boolean as parameter
+![button]()
 
-- **7 - Drag a bunch of instances of this button in the room**
 
-Once we dragged a bunch of them, set their "active" variable to false, set their label how you want, then, in their create event, register to the event we created earlier.
 
-![buttons2](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/drag_the_buttons.png)
+- **6 - **
 
-- **8 - Test your 1rst creation!**
 
-The buttons receive the event they registered to when the toggle is clicked, and they run their script to set active / inactive, congratz, you used your first events!
 
-![buttons2](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/Tuto1_complete.gif)
+![buttons2]()
+
+- **7 - Test your 1rst creation!**
+
+
+
+![buttons2]()
 
 
 
