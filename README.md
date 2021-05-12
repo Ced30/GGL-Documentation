@@ -33,7 +33,7 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 **Features of the Event_Manager object:**
 - Handles the events that you can fire or register to (greatly simplifies elements interaction)
 
-GGL GUI elements are divided in 2 categories, parent and children, the "parent" version, are objects that you can drag into the room, and the "children", are structs that must be added to a container parent.
+GGL GUI elements are divided in 2 categories, parents and childrens, the parents version, are objects that you can drag into the room, and the children, are structs that must be added to a container parent.
 
 ## Installation:
 
