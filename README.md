@@ -20,14 +20,9 @@ GGL supports z-order, it uses a controller object (obj_GGL_controller) to draw a
 
 GGL GUI elements have 2 versions, the "parent" version, which is an object you can drag into the room, and the "sub" version, which is a struct and must have an owner (parent).
 
-## Installation
+## Installation:
 
-1.  In your GameMaker project, click "Tools" on the top menu.
-2.  Select "Import Local  **Package**"
-3.  Navigate to the downloaded .**yymp**  file in the file explorer
-4.  Double click on the .**yymp**  file.
-5.  An "Import Resources" window will open up. ...
-6.  Click "Import" (leave the checkbox unchecked)
+- [**Instructions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Installation/instructions.md)
 
 ## Important
 
