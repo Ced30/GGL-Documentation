@@ -1,4 +1,4 @@
-## Installation
+# Installation:
 
 1.  In your GameMaker project, click "Tools" on the top menu.
 2.  Select "Import Local  **Package**"
@@ -12,3 +12,4 @@ When it's done, if asked, click save on the save prompt, like in the image below
 
 ![save_prompt](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/save_prompt.png)
 
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
