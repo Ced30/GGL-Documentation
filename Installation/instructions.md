@@ -12,8 +12,4 @@ When it's done, if asked, click save on the save prompt, like in the image below
 
 ![save_prompt](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/save_prompt.png)
 
-## The fonts used in this project are free to download here:
-- [neon 80s](https://www.dafont.com/neon-80s.font)
-- [neon 2 news](https://www.dafont.com/neon-2-news.font)
-
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
