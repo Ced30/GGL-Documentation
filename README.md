@@ -52,6 +52,12 @@ not by itself nor as part of a project you want to distribute.
 
 - [**Instructions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Installation/instructions.md)
 
+
+## The fonts used in this package are free to download here:
+- [neon 80s](https://www.dafont.com/neon-80s.font)
+- [neon 2 news](https://www.dafont.com/neon-2-news.font)
+
+
 ## Quick Start
 
 - [**Room Setup**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Quick%20Start/Room_Setup.md)
