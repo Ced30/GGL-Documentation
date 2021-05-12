@@ -44,6 +44,7 @@ Sets the new value of "value_max"
 
 Sets the type of value (decimal or integer)
 
+
 ## Shake(duration, intensity)
 
 | Parameter   |  type   |              description                   |
