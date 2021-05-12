@@ -4,10 +4,11 @@ This GUI element is used as a palette of buttons, all sharing the same "Activate
 		( do a switch(label) to tell wich button clicked).
 		
 Quick setup: set the dimensions you want by stretching the instance in the 
-					 room, then pass an array of strings to the "parameters" variable,
+					 room, pass an array of strings to the "parameters" variable,
 					 then, pass a script to be exectuted by the buttons to the "Script_Activate"
 					 variable.
-           The buttons will be placed automatically to fit the dimensions, they will share
+					 
+The buttons will be placed automatically to fit the dimensions, they will share
 					 the same activate script, the same panel sprite and the same sounds as the container.
 					 The container itself is not visible and not interactable.
            
