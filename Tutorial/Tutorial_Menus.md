@@ -28,7 +28,7 @@ The method returns the group created, so we can store it into a variable and use
 
 We will use the "Add_element" method of the group we created to add some GGL_sub elements to it.
 
-The method takes 7 arguments, and can take an optional 8th argument (which is stored into the "value" variable of the GGL_sub).
+The method takes 7 arguments, and can take an optional 8th argument.
 
 Arguments:
 - 1 - The type of GGL_sub
