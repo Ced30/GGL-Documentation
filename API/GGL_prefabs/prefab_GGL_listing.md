@@ -31,7 +31,7 @@ Override this method with the "activate_override" variable in the variable defin
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|   pStringArray      | an array of strings  |  array of strings containing the listing    |
+|   pStringArray      | an array of strings  |  array of strings containing the new listing    |
 
 | Returns:  | N/A |
 |--         |                             --|
