@@ -8,6 +8,8 @@ This class is composed of:
 The progression is set by the "value" variable, and the maximum by the "value_max" variable.
 It can be used as progression bar of health bar.
 
+** This slider is VERTICAL only **
+	
 # Relevant Methods
 
 ## Get_value()
