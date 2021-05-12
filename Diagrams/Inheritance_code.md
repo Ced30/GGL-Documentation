@@ -1,8 +1,8 @@
 ```mermaid
 graph LR
 A[parent_GGL] --> B[parent_GGL_label] --> C[parent_GGL_panel] --> D[parent_GGL_button]
-C[parent_GGL_panel] --> AF[obj_GGL_shader_panel]
-C[parent_GGL_panel] --> AG[obj_GGL_vignette]
+C[parent_GGL_panel] --> AF[prefab_GGL_shader_panel]
+C[parent_GGL_panel] --> AG[prefab_GGL_vignette]
 D[parent_GGL_button] --> E[parent_GGL_draggable]
 D[parent_GGL_button] --> F[parent_GGL_grabbable]
 F[parent_GGL_grabbable] --> H[parent_GGL_grabbable_animated]
@@ -20,9 +20,9 @@ D[parent_GGL_button] --> O[parent_GGL_container] --> AJ[prefab_GGL_container_pan
 O[parent_GGL_container] --> AD[prefab_GGL_color_palette]
 J[parent_GGL_toggle] --> P[parent_GGL_checkbox]
 S[parent_GGL_dropdown] --> T[parent_GGL_list]
-V[parent_GGL_window] --> X[obj_GGL_popup_CONFIRM_CANCEL]
-V[parent_GGL_window] --> Y[obj_GGL_window_with_confirmation]
-V[parent_GGL_window] --> Z[obj_GGL_windows_value_return]
+V[parent_GGL_window] --> X[prefab_GGL_popup_CONFIRM_CANCEL]
+V[parent_GGL_window] --> Y[prefab_GGL_window_with_confirmation]
+V[parent_GGL_window] --> Z[prefab_GGL_windows_value_return]
 O[parent_GGL_container] --> S[parent_GGL_dropdown]
 O[parent_GGL_container] --> R[parent_GGL_popup_container]
 R[parent_GGL_popup_container] --> W[parent_GGL_popup_message]
@@ -30,4 +30,3 @@ R[parent_GGL_popup_container] --> AE[prefab_GGL_listing] --> AH[prefab_GGL_listi
 R[parent_GGL_popup_container] --> V[parent_GGL_window]
 R[parent_GGL_popup_container] --> U[parent_GGL_textbox]
 O[parent_GGL_container] --> Q[parent_GGL_menu]
-```
