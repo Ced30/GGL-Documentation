@@ -8,12 +8,13 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL.md)
 - [parent_GGL_menu](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_menu.md)
 
-**Bars:**
 
+**Bars:**
 - [parent_GGL_bar_H](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_bar_H.md)
 - [parent_GGL_bar_V](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_bar_V.md)
 - [parent_GGL_slider_H](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_H.md)
 - [parent_GGL_slider_V](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_V.md)
+
 
 **Buttons:**
 - [parent_GGL_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_button.md)
@@ -24,26 +25,32 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_maintainable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_maintainable.md)
 - [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_text_input_box.md)
 
+
 **Labels:**
 - [parent_GGL_label](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_label.md)
 
+
 **Panels:**
 - [parent_GGL_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_panel.md)
+
 
 **Toggles:**
 - [parent_GGL_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_checkbox.md)
 - [parent_GGL_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_toggle.md)
 - [parent_GGL_toggle_linked](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_toggle_linked.md)
 
-**Parent container classes:**
+
+**Containers:**
 - [parent_GGL_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_container.md)
 - [parent_GGL_dropdown](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_dropdown.md)
 - [parent_GGL_list](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_list.md)
 - [parent_GGL_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_textbox.md)
 
+
 **Parent pop-up container classes:**
 - [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_container.md)
 - [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_message.md)
 - [parent_GGL_window](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_window.md)
+
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
