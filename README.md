@@ -29,7 +29,7 @@ GGL GUI elements have 2 versions, the "parent" version, which is an object you c
 **Object Destruction:**
 
 Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
-to destroy a parent element, use the "Destroy()" method instead, the controller object will handle the parent's destruction.
+to destroy a parent element, use the "Expire()" method instead, the controller object will handle the parent's destruction.
 
 ## Quick Start
 
