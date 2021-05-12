@@ -22,8 +22,8 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_draggable_animated.md)
 - [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable.md)
 - [parent_GGL_grabbable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable_animated.md)
+- [parent_GGL_input_textbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_text_input_box.md)
 - [parent_GGL_maintainable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_maintainable.md)
-- [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_text_input_box.md)
 
 
 **Labels:**
