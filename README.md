@@ -20,8 +20,6 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 - Mouse input variables
 - Z-order
 
-GGL GUI elements are divided in 2 categories, parent and children, the "parent" version, are objects that you can drag into the room, and the "children", are structs that must be added to a container parent.
-
 **What the package contains:**
 - 1 Controller object
 - 1 Event_manager object
@@ -31,6 +29,8 @@ GGL GUI elements are divided in 2 categories, parent and children, the "parent" 
 - a collection of wrapper scripts
 - a collection of sprites
 - a collection of sounds
+
+GGL GUI elements are divided in 2 categories, parent and children, the "parent" version, are objects that you can drag into the room, and the "children", are structs that must be added to a container parent.
 
 ## Installation:
 
