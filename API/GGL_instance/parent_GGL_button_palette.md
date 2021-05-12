@@ -18,9 +18,10 @@ N/A
 
 # Variable Definitions:
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_container.png)
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_button_palette.png)
 
-- **elements_active** => are the elements shown and interactable with?
+- **columns** => How many columns maximum?
+- **padding** => the space between buttons
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
 
