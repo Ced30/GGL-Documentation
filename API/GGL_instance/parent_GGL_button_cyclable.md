@@ -13,7 +13,7 @@ Clicking on the button will cycle through an
 |--           |       --|--                                          |
 |    N/A      |   N/A   |                    N/A                     |
 
-| Returns:  | The string contained inside the "value" variable |
+| Returns:  | The string contained inside the "value_str" variable |
 |--         |   --|
 
 This method Returns the string displayed on the button
