@@ -35,16 +35,20 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 
 GGL GUI elements are divided in 2 categories, parents and childrens, the parents version, are objects that you can drag into the room, and the children, are structs that must be added to a container parent.
 
-## Installation:
-
-- [**Instructions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Installation/instructions.md)
-
 ## Important
+
+**Object obj_GGL_controller:**
+Must be the first GGL instance in the room, as it keeps track of the other instances and draws them.
+
 
 **Object Destruction:**
 
 Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
 to destroy a parent element, use the "Expire()" method instead, the controller object will handle the parent's destruction.
+
+## Installation:
+
+- [**Instructions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Installation/instructions.md)
 
 ## Quick Start
 
