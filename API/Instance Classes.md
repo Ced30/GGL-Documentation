@@ -41,6 +41,7 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 
 
 **Containers:**
+- [parent_GGL_button_palette](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_button_palette.md)
 - [parent_GGL_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_container.md)
 - [parent_GGL_dropdown](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_dropdown.md)
 - [parent_GGL_list](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_list.md)
@@ -50,6 +51,7 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 **Parent pop-up container classes:**
 - [parent_GGL_popup_container](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_container.md)
 - [parent_GGL_popup_message](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_message.md)
+- [parent_GGL_popup_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_popup_panel.md)
 - [parent_GGL_window](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_window.md)
 
 
