@@ -21,11 +21,15 @@ not by itself nor as part of a project you want to distribute.
 - 1 Controller object
 - 1 Event_manager object
 - a collection of parent_GGL elements
-- a collection of GGL_sub elemnts
+- a collection of GGL_sub elements
+- a collection of prefab_GGL elements
 - a collection of factory scripts
 - a collection of wrapper scripts
 - a collection of sprites
 - a collection of sounds
+- a tweening controller
+- an implementation of Vector2, Vector3 (incomplete) and Rectangle classes
+- 11 demo rooms
 
 **Features of the Controller object:**
 - Instance destruction
