@@ -94,7 +94,7 @@ Only the **relevant functions**, which would be **public** in an object oriented
 
 **Controller:**
 
-- [**Controller Funtions**](https://github.com/Ced30/GGL-Documentation/blob/main/API/Controller_Functions.md)
+- [**Controller Functions**](https://github.com/Ced30/GGL-Documentation/blob/main/API/Controller_Functions.md)
 
 **Event_Manager:**
 
