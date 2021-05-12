@@ -1,4 +1,4 @@
-## Class obj_GGL_popup_CONFIRM_CANCEL
+## Class prefab_GGL_popup_CONFIRM_CANCEL
 
 A "GGL_window" with:
 - 1 "Close" button
