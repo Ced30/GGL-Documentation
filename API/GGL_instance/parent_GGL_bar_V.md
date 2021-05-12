@@ -1,6 +1,6 @@
 # Class parent_GGL_bar_V
 
-** This slider is VERTICAL only **
+** This bar is VERTICAL only **
 	
 This class is composed of:
 - 1 background panel
