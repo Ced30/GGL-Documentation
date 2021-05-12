@@ -1,5 +1,7 @@
 # Class parent_GGL_bar_H
 
+** This slider is HORIZONTAL only **
+	
 This class is composed of:
 - 1 background panel
 - 1 interpolated progression bar 
