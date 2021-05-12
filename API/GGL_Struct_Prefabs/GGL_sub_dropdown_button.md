@@ -1,4 +1,4 @@
-# Class GGL_sub_drag_anchor
+# Class GGL_sub_dropdown_button
 
 A GUI_sub button for the GUI_sub dropdown container with a custom "Interact" method.
 
