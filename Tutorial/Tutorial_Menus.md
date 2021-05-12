@@ -68,7 +68,7 @@ Just because i'm french, we will set their respective colors to the colors of th
 
 - **6 - Now is the time to compile and test our creation!**
  
-![compile](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Tuto2_complete.gif)
+![compile](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Tuto2_complete2.gif)
 
 
 # [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
