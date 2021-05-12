@@ -1,4 +1,4 @@
-## Class obj_GGL_windows_value_return
+## Class prefab_GGL_windows_value_return
 
 A "GGL_window" with: 
 - 1 "Close" button
