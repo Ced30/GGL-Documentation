@@ -1,4 +1,4 @@
-# **Tutorial: setting up your first button using events**
+# **Tutorial: setting up your first group**
 
 Lets see how to make something simple using a toggle to group / ungroup a couple of other GUI elements.
 
