@@ -18,6 +18,7 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 
 **Buttons:**
 - [parent_GGL_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_button.md)
+- [parent_GGL_button_cyclable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_button_cyclable.md)
 - [parent_GGL_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_draggable.md)
 - [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_draggable_animated.md)
 - [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable.md)
