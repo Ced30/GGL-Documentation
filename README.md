@@ -38,12 +38,11 @@ GGL GUI elements are divided in 2 categories, parents and childrens, the parents
 ## Important
 
 **Object obj_GGL_controller:**
-Must be the first GGL instance in the room, as it keeps track of the other instances and draws them.
+- Must be the first GGL instance in the room, as it keeps track of the other instances and draws them.
 
 
 **Object Destruction:**
-
-Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
+- Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
 to destroy a parent element, use the "Expire()" method instead, the controller object will handle the parent's destruction.
 
 ## Installation:
