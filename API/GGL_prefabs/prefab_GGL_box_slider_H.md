@@ -54,4 +54,9 @@ Sets the range of possible values of the slider
 
 Sets the type of value (decimal or integer)
 
+# Variable Definitions:
+
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider_H.png)
+
+
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Prefabs.md)
