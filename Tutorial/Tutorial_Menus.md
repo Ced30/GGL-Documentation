@@ -9,10 +9,11 @@ a GGL_controller into the room and somewhere in a script file, we create an enum
 
 ![room](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Menu_room.png)
 
-## **2 - Open the "Creation code of your parent_GGL_menu once it's in the room"**:
+## **2 - Open the "Creation code of your parent_GGL_menu instance"**:
 
-Then we will declare some variables to simplify our task.
+once the instance is in the room, open the creation code tab and we will declare some variables to simplify our task.
 
+**- Note:**
 The coordinates of your GGL_sub elements are relative to the coordinates of the container instances, meaning, the parent_GGL_menu always positions itself at the center of the GUI, so, it's coordinates are the 0, 0 coordinates of the GGL_sub.
 
 Example, if you want a GGL_sub at the center of the GUI, it's coordinates will be x = 0, y = 0
