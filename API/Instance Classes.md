@@ -13,17 +13,25 @@ They are independant and can be fetched with the "GGL_find_parent" function (a G
 - [parent_GGL_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_panel.md)
 
 **Parent button classes:**
+
+**Bars:**
+
+- [parent_GGL_bar_H](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_bar_H.md)
+- [parent_GGL_bar_V](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_bar_V.md)
+- [parent_GGL_slider_H](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_H.md)
+- [parent_GGL_slider_V](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_V.md)
+
+**Buttons:**
 - [parent_GGL_button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_button.md)
-- [parent_GGL_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_checkbox.md)
 - [parent_GGL_draggable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_draggable.md)
 - [parent_GGL_draggable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_draggable_animated.md)
 - [parent_GGL_grabbable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable.md)
 - [parent_GGL_grabbable_animated](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_grabbable_animated.md)
 - [parent_GGL_maintainable](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_maintainable.md)
-- [parent_GGL_progression_bar](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_progression_bar.md)
-- [parent_GGL_slider_H](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_H.md)
-- [parent_GGL_slider_V](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_slider_V.md)
 - [parent_GGL_text_input_box](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_text_input_box.md)
+
+**Toggles:**
+- [parent_GGL_checkbox](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_checkbox.md)
 - [parent_GGL_toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_toggle.md)
 - [parent_GGL_toggle_linked](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_instance/parent_GGL_toggle_linked.md)
 
