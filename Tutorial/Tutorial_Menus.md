@@ -24,9 +24,7 @@ Example, if you want a GGL_sub at the center of the GUI, it's coordinates will b
 
 First we will add a group that will contain the 1rst page to the menu by using the "Add_group" method, it takes only a string name as argument.
 
-The method returns the group created, so we can store it into a variable and use this variable to add GUI elements to the group.
-
-We will use the "Add_element" method of the group we created to add some GGL_sub elements to it.
+The method returns the group created, so we can store it into a variable and use this variable to populate the group, using it's "Add_element" method.
 
 The method takes 7 arguments, and can take an optional 8th argument.
 
@@ -40,7 +38,9 @@ Arguments:
 - 7 - the height of the GGL_sub
 - 8 - (optional) any kind of variable (goes into the "value variable of the GGL_sub")
 
-In this example, we will use the 8th argument to pass the enum entry corresponding to the page of the menu we want the button to lead to by using a function named "GGL_script_menu_set_group"
+In this example, we will use the 8th argument to pass the enum entry corresponding to the 2nd page of the menu to the "Options" button, and we will pass the "GGL_script_menu_set_group" function to this button.
+
+This function will read the "value" variable of the GGL_sub running it and use it as index to switch to another menu group (page).
 
 The GGL_sub we don't use in this example will receive -1 as 3rd argument (script).
 
