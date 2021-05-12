@@ -1,6 +1,6 @@
 # Class parent_GGL_slider_H
 
-** This slider is HORIZONTAL only **
+**This slider is HORIZONTAL only**
 	
 A GUI slider, composed of:
 - 1 background panel
