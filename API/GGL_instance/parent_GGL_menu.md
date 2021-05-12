@@ -8,7 +8,7 @@ as we don't draw it directly.
 # Relevant Methods
 
 
-## Add_element(label)
+## Add_group(label)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
