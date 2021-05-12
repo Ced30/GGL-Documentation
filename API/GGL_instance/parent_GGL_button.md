@@ -29,6 +29,8 @@ Override this method with the "activate_override" variable in the variable defin
 | Returns:  |  the "value" variable, which can store any type of value |
 |--         |                                                        --|
 
+Returns the "value" variable
+
 ## Set_value(new_value)
 
 | Parameter   |  type   |              description                   |
