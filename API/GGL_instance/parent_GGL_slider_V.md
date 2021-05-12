@@ -51,6 +51,17 @@ Sets the value of the slider
 
 Sets the range of possible values of the slider
 
+## Set_value_type(pType)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  pType  |   enum   |  an enum entry (e_GGL_value_type.decimal or e_GGL_value_type.integer)    |
+
+| Returns:  |         N/A |
+|--         |                             --|
+
+Sets the type of value (decimal or integer)
+
 # Variable Definitions:
 
 ![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/parent_GGL_slider.png)
