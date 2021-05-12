@@ -9,7 +9,7 @@ a GGL_controller into the room and somewhere in a script file, we create an enum
 
 ![room](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/Menu_room.png)
 
-## **2 - Open the "Creation code of your parent_GGL_menu instance"**:
+## **2 - Open the "Creation code" tab of your parent_GGL_menu instance**:
 
 once the instance is in the room, open the creation code tab and we will declare some variables to simplify our task.
 
