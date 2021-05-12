@@ -82,6 +82,10 @@ Only the **relevant functions**, which would be **public** in an object oriented
 
 - [**GGL_Functions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Functions.md)
 
+**Controller:**
+
+- [**Controller Funtions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Event_Manager/Controller_Functions.md)
+
 **Event_Manager:**
 
 - [**Event Manager Funtions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Event_Manager/Event_Manager_Functions.md)
