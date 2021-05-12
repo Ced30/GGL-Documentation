@@ -1,4 +1,4 @@
-## Class obj_GGL_window_with_confirmation
+## Class prefab_GGL_window_with_confirmation
 
 A "GGL_window" with: 
 - 1 "Close" button
