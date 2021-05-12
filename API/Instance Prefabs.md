@@ -22,5 +22,10 @@ Prefabs are basically pimped parent_GGL_containers with added stuff to perform s
 - [prefab_GGL_window_with_confirmation](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_prefabs/prefab_GGL_window_with_confirmation.md)
 - [prefab_GGL_windows_value_return](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_prefabs/prefab_GGL_windows_value_return.md)
 
+**shader panels**
+
+- [prefab_GGL_shader_panel](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_prefabs/prefab_GGL_shader_panel.md)
+- [prefab_GGL_vignette](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_prefabs/prefab_GGL_vignette.md)
+
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
