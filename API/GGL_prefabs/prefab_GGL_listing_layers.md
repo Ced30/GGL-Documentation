@@ -1,4 +1,4 @@
-## Class prefab_GGL_listing
+## Class prefab_GGL_listing_layers
 
 This prefab is intended to be used to list layer names.
 		the "parameters" variable must contain an array of strings
@@ -48,7 +48,7 @@ Use this method to update the listing of strings you wanna display by providing 
 
 # Variable Definitions:
 
-![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/prefab_GGL_listing.png)
+![var_def](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/API/GGL_instance/prefab_GGL_listing_layers.png)
 
 ## [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Prefabs.md)
 
