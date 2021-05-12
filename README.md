@@ -80,7 +80,7 @@ Only the **relevant functions**, which would be **public** in an object oriented
 
 **Event_Manager:**
 
-- [**Event Manager Funtions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/Instance%20Classes.md)
+- [**Event Manager Funtions**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/API/GGL_Event_Manager/Event_Manager_Functions.md)
 
 ## Inheritance map
 
