@@ -30,12 +30,12 @@ Once the toggle has been clicked, it will run this function and fire the event.
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/script_fire.png)
 
-- **5 - pass the function to the toggle**
+- **5 - pass the script to the toggle**
 Go back to the room, and scroll through the instance's variables until you find "Script_execute", paste the name of the function you created there.
 
 ![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/pass_the_function.png)
 
-- **6 - Create the script that the buttons will run once the toggle is clicked**
+- **6 - Create another script, that the buttons will run once the toggle is clicked**
 
 ![button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/script_when_toggled.png)
 
