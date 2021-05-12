@@ -22,7 +22,18 @@ Once the toggle has been clicked, it will run this function and fire the event.
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/script_fire.png)
 
+- **4 - pass the function to the toggle**
 Go back to the room, and scroll through the instance's variables until you find "Script_execute", paste the name of the function you created there.
 
 ![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/pass_the_function.png)
+
+- **5 - Create some elements you want to register to the event**
+
+Again, for the sake of the tutorial, we'll make it simple 
+- make a new object, 
+- inherit from parent_GGL_button
+- give it a sprite 
+- set it's "active" variable to false
+
+![button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/create_the_button.png)
 
