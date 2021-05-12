@@ -25,9 +25,9 @@ GGL GUI elements are divided in 2 categories, parent and children, the "parent" 
 **What the package contains:**
 - 1 GGL_controller object
 - 1 Event_manager object
-- parent_GGL elements
-- GGL_sub elemnts
-- a collection of factory scrips
+- a collection of parent_GGL elements
+- a collection of GGL_sub elemnts
+- a collection of factory scripts
 - a collection of wrapper scripts
 - a collection of sprites
 - a collection of sounds
