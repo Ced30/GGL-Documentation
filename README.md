@@ -43,8 +43,7 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 
 
 **Object Destruction:**
-- Because of the fact that objects are drawn by the **obj_GGL_controller**, you **must avoid using** the "instance_destroy()" command
-to destroy a parent element, use the "Expire()" method instead, the controller object will handle the parent's destruction.
+- You **must avoid using** the "instance_destroy()" command to destroy a parent element, use the "Expire()" method instead, the controller object will handle the parent's destruction.
 
 ## Installation:
 
