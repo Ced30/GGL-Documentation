@@ -6,7 +6,7 @@ This is a container panel with a draggable surface draw onto it.
 		
 This sprite will be drawn onto a surface and cropped to the instance dimensions.
 		
-You can drag the sprite around with the right mouse button.
+Once the mouse is on the panel, you can drag the sprite around by maintaining right click and run the "Activate" function by left clicking
 		
 Note that you can set the scale of the image with the "scale_surface" variable.
 		
