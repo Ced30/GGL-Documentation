@@ -12,13 +12,19 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 
 ## Description
 
-Only the **relevant functions**, which would be **public** in an object oriented language will be documented for now.
+**GGL** supports Game Maker Studio2 versions 2.3 and above, it supports z-order, using a controller object (obj_GGL_controller) to draw all of the parent_GGL instances and handle their destruction.
 
-**GGL** doesn't work with a Game Maker Studio2 version older than 2.3.
+GGL GUI elements are divided in 2 categories, parent and children, the "parent" version, are objects that you can drag into the room, and the "children", are structs that must be added to a container parent.
 
-GGL supports z-order, it uses a controller object (obj_GGL_controller) to draw all of the parent_GGL instances and handle their destruction.
-
-GGL GUI elements have 2 versions, the "parent" version, which is an object you can drag into the room, and the "sub" version, which is a struct and must have an owner (parent).
+**What the package contains:**
+- 1 GGL_controller object
+- 1 Event_manager object
+- parent_GGL elements
+- GGL_sub elemnts
+- a collection of factory scrips
+- a collection of wrapper scripts
+- a collection of sprites
+- a collection of sounds
 
 ## Installation:
 
@@ -37,6 +43,8 @@ to destroy a parent element, use the "Expire()" method instead, the controller o
 - [**Instancing parent_GGL objects**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Quick%20Start/Instancing_parent_GGL%20objects.md)
 
 ## API
+
+Only the **relevant functions**, which would be **public** in an object oriented language will be documented for now.
 
 **Classes:**
 
