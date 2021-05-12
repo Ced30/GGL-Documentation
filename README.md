@@ -8,7 +8,7 @@ GML GUI Library (GGL), Written by Ced30.
 
 **GGL** is a graphical user interface library for Game Maker Studio v2.3+,
 It's made with ease of use in mind, mainly to quickly build **GUI** for your **games** and **tools**. 
-The **GUI** elements are composed of gameObjects and structs.
+The **GUI** elements are composed of gameObjects (parents) and structs (children).
 
 ## Description
 
