@@ -1,4 +1,4 @@
-# Class parent_GGL_progression_bar
+# Class parent_GGL_bar_H
 
 This class is composed of:
 - 1 background panel
