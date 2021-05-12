@@ -40,6 +40,12 @@ Arguments:
 - 7 - the height of the GGL_sub
 - 8 - (optional) any kind of variable (goes into the "value variable of the GGL_sub")
 
+In this example, we will use the 8th argument to pass the enum entry corresponding to the page of the menu we want the button to lead to by using a function named "GGL_script_menu_set_group"
+
+The GGL_sub we don't use in this example will receive -1 as 3rd argument (script).
+
+And finally, we will pas as script that closes the game once the click sound has finished playing to the "Quit" button.
+
 ![pass_the_func](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
 
 ## **4 - **
