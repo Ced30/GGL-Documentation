@@ -33,7 +33,7 @@ The method takes 7 arguments, and can take an optional 8th argument (which is st
 Arguments:
 - 1 - The type of GGL_sub
 - 2 - the label (a string)
-- 3 - the script that overrides the "Activate" method
+- 3 - the script that overrides the "Activate" method (pass -1 if you don't want to pass a script)
 - 4 - the x offset from the position of the menu (middle of the screen)
 - 5 - the y offset from the position of the menu (middle of the screen)
 - 6 - the width of the GGL_sub
