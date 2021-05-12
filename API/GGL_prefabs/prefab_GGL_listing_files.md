@@ -1,4 +1,4 @@
-## Class prefab_GGL_file_listing
+## Class prefab_GGL_listing_files
 
 This prefab is intended to be used to list files.
 the "parameters" variable contains an array of strings which represent the names of the files.
