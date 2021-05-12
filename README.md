@@ -10,6 +10,9 @@ GML GUI Library (GGL), Written by Ced30.
 It's made with ease of use in mind, mainly to quickly build **GUI** for your **games** and **tools**. 
 The **GUI** elements are composed of gameObjects (parents) and structs (children).
 
+You CAN use it in any of your projects, commercial or not, you CANNOT redistribute it,
+not by itself nor as part of a project you want to distribute.
+
 ## Description
 
 **GGL** supports Game Maker Studio2 versions 2.3 and above. 
