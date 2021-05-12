@@ -7,7 +7,7 @@
 | Returns:  | true if the selected button is the instance calling this function |
 |--         |                             --|
 
-This function Returns true if the id of the button currently selected is the same as the one running this script
+This function Returns true if the id of the button currently selected is the same as the one running this function
 
 # [Back](https://github.com/Ced30/GGL-Documentation/blob/main/API/Controller_Functions.md)
 
