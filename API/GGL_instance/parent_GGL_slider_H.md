@@ -23,21 +23,33 @@ The slider can use either decimal or integer values, set it in the variable defi
 |--           |       --|--                                          |
 |  N/A  |   N/A   |  N/A    |
 
-| Returns:  |  the "value" variable                                  |
-|--         |                                                      --|
+| Returns:  |  the value of the slider |
+|--         |                                                        --|
 
-Returns the current value of the slider (the "value" variable)
+Returns the value of the slider
 
 ## Set_value(new_value)
 
 | Parameter   |  type   |              description                   |
 |--           |       --|--                                          |
-|  new_value  |   real   |  the new value of the "value" variable    |
+|  new_value  |   real or integer   |  sets the new value of the slider    |
 
 | Returns:  |         N/A |
 |--         |                             --|
 
-Sets the current value of the slider
+Sets the value of the slider
+
+## Set_value_range(new_min, new_max)
+
+| Parameter   |  type   |              description                   |
+|--           |       --|--                                          |
+|  new_min  |   real or integer   |  sets the new minimum value of the slider    |
+|  new_max  |   real or integer   |  sets the new maximum value of the slider    |
+
+| Returns:  |         N/A |
+|--         |                             --|
+
+Sets the range of possible values of the slider
 
 # Variable Definitions:
 
