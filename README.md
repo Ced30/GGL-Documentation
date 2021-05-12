@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/GGL_logo.png)
 
-# GML-GUI-Library-GGL-Documentation
+# GGL-Documentation
 
 GML GUI Library (GGL), Written by Ced30.
 
