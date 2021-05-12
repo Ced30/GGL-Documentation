@@ -3,7 +3,7 @@
 Clicking on the button will cycle through an 
 		array of strings (held in the "parameters" value)
 		the index is the variable "value" and the string
-		is contained in the "value_str" variable
+		is contained in the "value_str" variable (the "value" variable serves as an index for the array) 
 		
 # Relevant Methods
 
