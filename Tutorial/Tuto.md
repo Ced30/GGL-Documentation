@@ -27,13 +27,14 @@ Go back to the room, and scroll through the instance's variables until you find 
 
 ![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/pass_the_function.png)
 
-- **5 - Create some elements you want to register to the event**
+- **5 - Create the script that the buttons will run once the toggle is clicked**
 
-Again, for the sake of the tutorial, we'll make it simple 
-- make a new object, 
-- inherit from parent_GGL_button
-- give it a sprite 
-- set it's "active" variable to false
+![button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/script_when_toggled.png)
 
-![button](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/create_the_button.png)
+It's a simple script, it receives a boolean in parameters, and sets the instance that runs this script active with this boolean as parameter
 
+- **6 - Drag a bunch of instances of this button in the room**
+
+Once we dragged a bunch of them, set their "active" variable to false, set their label how you want, then, in their create event, register to the event we created earlier.
+
+![buttons2](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/drag_the_buttons.png)
