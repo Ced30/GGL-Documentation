@@ -26,12 +26,11 @@ First we will add a group that will contain the 1rst page to the menu by using t
 
 The method returns the group created, so we can store it into a variable and use this variable to add GUI elements to the group.
 
-![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/script_fire.png)
+
+![pass_the_func](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
 
 ## **4 - **
 
-
-![pass_the_func](https://github.com/Ced30/GGL-Documentation/blob/main/Images/Tutorial/Menus/page1.png)
 
 - **5 - **
 
