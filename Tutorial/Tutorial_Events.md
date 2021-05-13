@@ -18,13 +18,13 @@ Drag a GGL controller first and a GGL Event Manager into the room, as the other 
 
 - **3 - Create the toggle**:
 
-Then we grab a parent_GGL_toggle in the asset manager, drag it into the room, and by clickng on the "variables" tab, we can edit the label to begin with
+Then, grab a parent_GGL_toggle in the asset manager, drag it into the room, and by clickng on the "variables" tab, you can edit the label to begin with
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/toggle1.png)
 
 - **4 - Create the script that will fire the event**:
 
-In a script file, the write the "Toggle_the_group" function, that we will pass to the toggle.
+In a script file, we'll write the "Toggle_the_group" function, that we will pass to the toggle.
 
 Once the toggle has been clicked, it will run this function and fire the event.
 
