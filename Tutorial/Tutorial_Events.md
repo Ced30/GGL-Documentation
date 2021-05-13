@@ -32,7 +32,7 @@ so, we pass the id of the event as 1rst argument and the "toggled" variable as 2
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/script_fire.png)
 
 - **5 - pass the script to the toggle**
-Go back to the room, and scroll through the instance's variables until you find "Script_execute", paste the name of the function you created there.
+Go back to the room, and scroll through the instance's variables until you find "Script_Activate", paste the name of the function you created there.
 
 ![pass_the_func](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/pass_the_function.png)
 
