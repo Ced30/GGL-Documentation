@@ -26,7 +26,8 @@ Then, grab a parent_GGL_toggle in the asset manager, drag it into the room, and 
 
 In a script file, we'll write the "Toggle_the_group" function, that we will pass to the toggle.
 
-Once the toggle has been clicked, it will run this function and fire the event.
+Once the toggle has been clicked, it's "toggled" variable will change and the toggle will run this function and fire the event,
+so, we pass the id of the event as 1rst argument and the "toggled" variable as 2nd argument.
 
 ![toggle](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/script_fire.png)
 
