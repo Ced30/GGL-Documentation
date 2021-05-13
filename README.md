@@ -71,7 +71,7 @@ If you don't own **GGL**, you can download an try the demo [**here**](https://gi
 - [**Instancing parent_GGL objects**](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Quick%20Start/Instancing_parent_GGL%20objects.md)
 
 
-- [**Setting up your first button?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tutorial_First_Button.md)
+- [**How to setup your first button?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tutorial_First_Button.md)
 - [**How to use events?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tutorial_Events.md)
 - [**How to create a menu?**](https://github.com/Ced30/GGL-Documentation/blob/main/Tutorial/Tutorial_Menus.md)
 
