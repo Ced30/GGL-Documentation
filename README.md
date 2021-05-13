@@ -13,7 +13,7 @@ The **GUI** elements are composed of gameObjects (parents) and structs (children
 You CAN use it in any of your projects, commercial or not, you CANNOT redistribute it,
 not by itself nor as part of a project you want to distribute.
 
-If you don't own **GGL**, you can download an try the demo [**here**](https://github.com/Ced30/GGL-Documentation/blob/main/Demo/GGL_Demo.zip)
+If you don't own **GGL**, you can download an try the demo [**here**](https://github.com/Ced30/GGL-Documentation/tree/main/Demo)
 
 
 ## Description
