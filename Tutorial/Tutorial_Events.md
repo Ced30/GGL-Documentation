@@ -54,4 +54,4 @@ The buttons receive the event they registered to when the toggle is clicked, and
 
 ![buttons2](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/Images/Tutorial/Events/Tuto1_complete.gif)
 
-
+# [Back](https://github.com/Ced30/GML-GUI-Library-GGL-Documentation/blob/main/README.md)
